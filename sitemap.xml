@@ -3,7 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://kimkt.com/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>https://kimkt.com/search/placeholder/</loc>
   </url><url>
@@ -14,6 +13,8 @@
     <loc>https://kimkt.com/top/publications/</loc>
   </url><url>
     <loc>https://kimkt.com/top/research/</loc>
+  </url><url>
+    <loc>https://kimkt.com/top/team/</loc>
   </url><url>
     <loc>https://kimkt.com/categories/</loc>
   </url><url>
