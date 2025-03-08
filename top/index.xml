@@ -70,29 +70,69 @@ West Lafayette IN 47907, United States&lt;br&gt;
 &lt;h2 id=&#34;publications&#34;&gt;Publications&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://ieeexplore.ieee.org/document/10908559&#34;&gt;Key Focus and Enabling Technologies for 6G&lt;/a&gt; &lt;br&gt;
+&lt;span style=&#39;font-variant:small-caps;&#39;&gt;Christopher G. Brinton, Mung Chiang, Kwang Taik Kim, David J. Love, Michael Beesley, Morris Repeta, John Roese, Per Beming, Erik Ekudden, Clara Li, Geng Wu, Nishant Batra, Amitava Ghosh, Volker Ziegler, Tingfang Ji, Rajat Prakash, and John Smee &lt;/span&gt; &lt;br&gt;
+&lt;em&gt;IEEE Comm. Mag.&lt;/em&gt;, 2025.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://arxiv.org/abs/2411.00608&#34;&gt;HopTrack: A Real-time Multi-Object Tracking System for Embedded Devices&lt;/a&gt; &lt;br&gt;
+&lt;span style=&#39;font-variant:small-caps;&#39;&gt;Xiang Li, Cheng Chen, Yuan-Yao Lou, Mustafa Abdallah, Kwang Taik Kim, Saurabh Bagchi &lt;/span&gt; &lt;br&gt;
+submitted to &lt;em&gt;IEEE Journal on Selected Areas in Comm.&lt;/em&gt;, 2025&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://arxiv.org/abs/2410.00695&#34;&gt;E-MPC: Edge-assisted Model Predictive Control&lt;/a&gt; &lt;br&gt;
+&lt;span style=&#39;font-variant:small-caps;&#39;&gt;Yuan-Yao Lou, Jonathan Spencer, Kwang Taik Kim, Mung Chiang &lt;/span&gt; &lt;br&gt;
+submitted to &lt;em&gt;IEEE Journal on Selected Areas in Comm.&lt;/em&gt;, 2025&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://arxiv.org/abs/2409.10839&#34;&gt;Dynamic DAG-Application Scheduling for Multi-Tier Edge Computing in Heterogeneous Networks&lt;/a&gt;  &lt;br&gt;
+&lt;span style=&#39;font-variant:small-caps;&#39;&gt;Xiang Li, Mustafa Abdallah, Yuan-Yao Lou, Mung Chiang, Kwang Taik Kim, Saurabh Bagchi &lt;/span&gt; &lt;br&gt;
+submitted to &lt;em&gt;IEEE Trans. on Mobile Comput.&lt;/em&gt;, 2025&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;&#34;&gt;AD-VRAN: DRL-based Adaptive Deployment of Virtualized RAN in an Open Telco Edge Cloud&lt;/a&gt; &lt;br&gt;
+&lt;span style=&#39;font-variant:small-caps;&#39;&gt;Yuan-Yao Lou, Cheng Chen, Ying-Hui Huang, Kwang Taik Kim, Mung Chiang &lt;/span&gt; &lt;br&gt;
+submitted to &lt;em&gt;INFOCOM&#39;25&lt;/em&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;&#34;&gt;EdgeFlex: Intelligent Edge Collaborative Inference&lt;/a&gt; &lt;br&gt;
+&lt;span style=&#39;font-variant:small-caps;&#39;&gt;Cheng Chen, Xiang Li, Saurabh Bagchi, Kwang Taik Kim &lt;/span&gt; &lt;br&gt;
+submitted to &lt;em&gt;Eurosys&#39;25&lt;/em&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
 &lt;p&gt;&lt;a href=&#34;&#34;&gt;An Empirical Study of 5G: Effect of Edge on Transport Protocol and Application Performance&lt;/a&gt; &lt;br&gt;
 &lt;span style=&#39;font-variant:small-caps;&#39;&gt;Hyoyoung Lim, Jinsung Lee, Jongyun Lee, Sandesh Dhawaskar Sathyanarayana, Junseon Kim, Anh Nguyen, Kwang Taik Kim, Youngbin Im, Mung Chiang, Dirk Grunwald, Kyunghan Lee, Sangtae Ha &lt;/span&gt; &lt;br&gt;
-accepted in &lt;em&gt;IEEE Trans. Mobile Comput.&lt;/em&gt;, 2023&lt;/p&gt;
+&lt;em&gt;IEEE Trans. Mobile Comput.&lt;/em&gt;, 2024&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://arxiv.org/abs/2404.06324&#34;&gt;Dynamic D2D-Assisted Federated Learning over O-RAN: Performance Analysis, MAC Scheduler, and Asymmetric User Selection&lt;/a&gt; &lt;br&gt;
+&lt;span style=&#39;font-variant:small-caps;&#39;&gt;Payam Abdisarabshali, Kwang Taik Kim, Michael Langberg, Weifeng Su, Seyyedali Hosseinalipour &lt;/span&gt; &lt;br&gt;
+submitted to &lt;em&gt;IEEE ACM/Trans. on Netw.&lt;/em&gt;, 2024&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://kimkt.com/publications/Partial-index-tech.pdf&#34;&gt;Minimizing age-of-information in heterogenous multi-channel systems: a new partial-index approach&lt;/a&gt; &lt;br&gt;
+&lt;span style=&#39;font-variant:small-caps;&#39;&gt;Yihan Zou, Sixiang Zhou, Kwang Taik Kim, Xiaojun Lin &lt;/span&gt; &lt;br&gt;
+submitted to &lt;em&gt;IEEE ACM/Trans. on Netw.&lt;/em&gt;, 2024&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;a href=&#34;https://arxiv.org/pdf/2203.13950.pdf&#34;&gt;Multi-Edge Server-Assisted Dynamic Federated Learning with an Optimized Floating Aggregation Point&lt;/a&gt; &lt;br&gt;
 &lt;span style=&#39;font-variant:small-caps;&#39;&gt;Bhargav Ganguly, Seyyedali Hosseinalipour, Kwang Taik Kim, Christopher Brinton, Vaneet Aggarwal, David Love, Mung Chiang &lt;/span&gt; &lt;br&gt;
-accepted in &lt;em&gt;IEEE/ACM Trans. on Netw.&lt;/em&gt;, 2023&lt;/p&gt;
+&lt;em&gt;IEEE/ACM Trans. on Netw.&lt;/em&gt;, 2023&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;a href=&#34;https://kimkt.com/publications/SC_IF_final.pdf&#34;&gt;Successive Cancellation Integer Forcing via Practical Binary Codes&lt;/a&gt; &lt;br&gt;
 &lt;span style=&#39;font-variant:small-caps;&#39;&gt;Seok-Ki Ahn, Sungho Chae, Kwang Taik Kim, Young-Han Kim &lt;/span&gt; &lt;br&gt;
-accepted in &lt;em&gt;IEEE Trans. Wirel. Commun.&lt;/em&gt;, 2023&lt;/p&gt;
+&lt;em&gt;IEEE Trans. Wirel. Commun.&lt;/em&gt;, 2023&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://kimkt.com/publications/A_Novel_Framework_for_Cost_Constrained_Network_Sharing.pdf&#34;&gt;A Novel Framework for Cost Constrained Network Sharing&lt;/a&gt; &lt;br&gt;
+&lt;span style=&#39;font-variant:small-caps;&#39;&gt;Eric Ruzomberka, Kwang Taik Kim, Arnob Ghosh, David J. Love, Mung Chiang&lt;/span&gt; &lt;br&gt;
+&lt;em&gt;IEEE Trans. Mobile Comput.&lt;/em&gt;, 2023&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;a href=&#34;https://ieeexplore.ieee.org/document/9996961&#34;&gt;DAG-based Task Orchestration for Edge Computing&lt;/a&gt; &lt;br&gt;
 &lt;span style=&#39;font-variant:small-caps;&#39;&gt;Xiang Li, Mustafa Abdallah, Shikhar Suryavansh, Mung Chiang, Kwang Taik Kim, Saurabh Bagchi &lt;/span&gt; &lt;br&gt;
 &lt;em&gt;SRDS&lt;/em&gt;, September 2022&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;https://kimkt.com/publications/A_Novel_Framework_for_Cost_Constrained_Network_Sharing.pdf&#34;&gt;A Novel Framework for Cost Constrained Network Sharing&lt;/a&gt; &lt;br&gt;
-&lt;span style=&#39;font-variant:small-caps;&#39;&gt;Eric Ruzomberka, Kwang Taik Kim, Arnob Ghosh, David J. Love, Mung Chiang&lt;/span&gt; &lt;br&gt;
-accepted in &lt;em&gt;IEEE Trans. Mobile Comput.&lt;/em&gt;, 2022&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;a href=&#34;https://arxiv.org/pdf/2112.11491.pdf&#34;&gt;Adversarial Deep Unfolding Network for Error Correcting Codes&lt;/a&gt; &lt;br&gt;
@@ -434,6 +474,22 @@ So, the goal of most of my research is to provide feasibility studies for state-
     
     <item>
       <title></title>
+      <link>https://kimkt.com/top/teaching/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kimkt.com/top/teaching/</guid>
+      <description>&lt;h2 id=&#34;teaching&#34;&gt;Teaching&lt;/h2&gt;
+&lt;ul style=&#34;font-size:16px;&#34;&gt;
+  &lt;li style=&#34;color:#282828;font-style:italic;&#34;&gt;&lt;b&gt;ECE 54300 Digital Communications&lt;/b&gt; &lt;/li&gt;
+  &lt;li style=&#34;color:#282828;font-style:italic;&#34;&gt;&lt;b&gt;ECE 64200 Information Theory and Source Coding&lt;/b&gt; &lt;/li&gt;
+  &lt;li style=&#34;color:#282828;font-style:italic;&#34;&gt;&lt;b&gt;ECE 69500 Stochastic Processes in Information Systems&lt;/b&gt; &lt;/li&gt;
+  &lt;li style=&#34;color:#282828;font-style:italic;&#34;&gt;&lt;b&gt;ECE 20001 Electrical Engineering Fundamentals I&lt;/b&gt; &lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://kimkt.com/top/team/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -457,17 +513,29 @@ Director of KTK Lab&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://yylou.github.io&#34;&gt;&lt;b&gt;Yuan-Yao Mike Lou&lt;/b&gt;&lt;/a&gt; | Email: &lt;a href=&#34;mailto:yylou@purdue.edu&#34;&gt;&lt;a href=&#34;mailto:yylou@purdue.edu&#34;&gt;yylou@purdue.edu&lt;/a&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;!-- is a Ph.D. student in Elmore Family School of Electrical and Computer Engineering at Purdue University. His research interests span edge computing, 5G/NextG networks and systems, IoT, software-defined network, network function virtualization, deep learning, and reinforcement learning. In his current work, he aims to design the containerized (Kubernetes-based) architecture  of the open edge platform in 5G/NextG networks, service function chaining to improve network programmability, and AI/ML to enable automatic orchestration. --&gt;
 &lt;!-- &lt;a href=&#34;mailto:yylou@purdue.edu&#34;&gt;yylou@purdue.edu&lt;/a&gt; --&gt;
-&lt;p&gt;&lt;a href=&#34;https://github.com/ChengChen2020&#34;&gt;&lt;b&gt;Cheng Chen&lt;/b&gt;&lt;/a&gt; | Email: &lt;a href=&#34;mailto:chen4384@purdue.edu&#34;&gt;&lt;a href=&#34;mailto:chen4384@purdue.edu&#34;&gt;chen4384@purdue.edu&lt;/a&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;!-- [&lt;b&gt;Cheng Chen&lt;/b&gt;](https://github.com/ChengChen2020) | Email: &lt;a href=&#34;mailto:chen4384@purdue.edu&#34;&gt;chen4384@purdue.edu&lt;/a&gt; --&gt;
 &lt;p&gt;&lt;a href=&#34;https://in.linkedin.com/in/rittwik-sood?original_referer=https%3A%2F%2Fwww.google.com%2F&#34;&gt;&lt;b&gt;Rittwik Sood&lt;/b&gt;&lt;/a&gt; | Email: &lt;a href=&#34;mailto:sood26@purdue.edu&#34;&gt;&lt;a href=&#34;mailto:sood26@purdue.edu&#34;&gt;sood26@purdue.edu&lt;/a&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.linkedin.com/in/justin-nagovskiy-b544781b7&#34;&gt;&lt;b&gt;Justin Nagovskiy&lt;/b&gt;&lt;/a&gt; | Email: &lt;a href=&#34;mailto:jnagovsk@purdue.edu&#34;&gt;&lt;a href=&#34;mailto:jnagovsk@purdue.edu&#34;&gt;jnagovsk@purdue.edu&lt;/a&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;&#34;&gt;&lt;b&gt;Aravind Muraleedharan&lt;/b&gt;&lt;/a&gt; | Email: &lt;a href=&#34;mailto:amuralee@purdue.edu&#34;&gt;&lt;a href=&#34;mailto:amuralee@purdue.edu&#34;&gt;amuralee@purdue.edu&lt;/a&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;br&gt;
 &lt;!-- #### M.S. Students {#ms} --&gt;
 &lt;h4 id=&#34;undergradaute&#34;&gt;Undergradaute Students&lt;/h4&gt;
-&lt;p&gt;&lt;a href=&#34;&#34;&gt;&lt;b&gt;Basil Khwaja&lt;/b&gt;&lt;/a&gt; | Email: &lt;a href=&#34;mailto:bkhwaja@purdue.edu&#34;&gt;&lt;a href=&#34;mailto:bkhwaja@purdue.edu&#34;&gt;bkhwaja@purdue.edu&lt;/a&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;!-- [&lt;b&gt;Andrew Chen&lt;/b&gt;]( ) | Email: &lt;a href=&#34;mailto:chen4192@purdue.edu&#34;&gt;chen4192@purdue.edu&lt;/a&gt; --&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.linkedin.com/in/basil-khwaja&#34;&gt;&lt;b&gt;Basil Khwaja&lt;/b&gt;&lt;/a&gt; | Email: &lt;a href=&#34;mailto:bkhwaja@purdue.edu&#34;&gt;&lt;a href=&#34;mailto:bkhwaja@purdue.edu&#34;&gt;bkhwaja@purdue.edu&lt;/a&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.linkedin.com/in/francis-ozua&#34;&gt;&lt;b&gt;Francis Ozua&lt;/b&gt;&lt;/a&gt; | Email: &lt;a href=&#34;mailto:fozua@purdue.edu&#34;&gt;&lt;a href=&#34;mailto:fozua@purdue.edu&#34;&gt;fozua@purdue.edu&lt;/a&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.linkedin.com/in/justin-kwon-259594268&#34;&gt;&lt;b&gt;Justin Kwon&lt;/b&gt;&lt;/a&gt; | Email: &lt;a href=&#34;mailto:kwon296@purdue.edu&#34;&gt;&lt;a href=&#34;mailto:kwon296@purdue.edu&#34;&gt;kwon296@purdue.edu&lt;/a&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;br&gt;
-&lt;h4 id=&#34;visitingphd&#34;&gt;Visiting Ph.D. Students&lt;/h4&gt;
-&lt;p&gt;&lt;a href=&#34;https://nxc.snu.ac.kr/people/students#h.votdqrq7ux1a&#34;&gt;&lt;b&gt;Goodsol Lee&lt;/b&gt;&lt;/a&gt; | Email: &lt;a href=&#34;mailto:gslee2@netlab.snu.ac.kr&#34;&gt;&lt;a href=&#34;mailto:gslee2@netlab.snu.ac.kr&#34;&gt;gslee2@netlab.snu.ac.kr&lt;/a&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://nxc.snu.ac.kr/people/students#h.bfx8jrpbmhn8&#34;&gt;&lt;b&gt;Seongsik Cho&lt;/b&gt;&lt;/a&gt; | Email: &lt;a href=&#34;mailto:choss@snu.ac.kr&#34;&gt;&lt;a href=&#34;mailto:choss@snu.ac.kr&#34;&gt;choss@snu.ac.kr&lt;/a&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;!--
+#### Visiting Ph.D. Students {#visitingphd}
+
+[&lt;b&gt;Goodsol Lee&lt;/b&gt;](https://nxc.snu.ac.kr/people/students#h.votdqrq7ux1a) | Email: &lt;a href=&#34;mailto:gslee2@netlab.snu.ac.kr&#34;&gt;gslee2@netlab.snu.ac.kr&lt;/a&gt;
+
+[&lt;b&gt;Seongsik Cho&lt;/b&gt;](https://nxc.snu.ac.kr/people/students#h.bfx8jrpbmhn8) | Email: &lt;a href=&#34;mailto:choss@snu.ac.kr&#34;&gt;choss@snu.ac.kr&lt;/a&gt;
+
+&lt;br&gt;
+--&gt;
+&lt;h4 id=&#34;previousvisitingphd&#34;&gt;Visitors&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.linkedin.com/in/goodsol-lee-25a75b31a&#34;&gt;&lt;b&gt;Goodsol Lee&lt;/b&gt;&lt;/a&gt;, Seoul National University, Dec. 2023 &amp;ndash; May 2024 | Email: &lt;a href=&#34;mailto:gslee2@netlab.snu.ac.kr&#34;&gt;&lt;a href=&#34;mailto:gslee2@netlab.snu.ac.kr&#34;&gt;gslee2@netlab.snu.ac.kr&lt;/a&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://nxc.snu.ac.kr/people/students#h.bfx8jrpbmhn8&#34;&gt;&lt;b&gt;Seongsik Cho&lt;/b&gt;&lt;/a&gt;, Seoul National University, Dec. 2023 &amp;ndash; Dec. 2024 | Email: &lt;a href=&#34;mailto:choss@snu.ac.kr&#34;&gt;&lt;a href=&#34;mailto:choss@snu.ac.kr&#34;&gt;choss@snu.ac.kr&lt;/a&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;br&gt;
 &lt;hr/&gt;
 &lt;!-- ## Opportunities {#opportunities}  

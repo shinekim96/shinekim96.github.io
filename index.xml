@@ -13,41 +13,56 @@
       <guid>https://kimkt.com/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Kwang Taik Kim&lt;/strong&gt;, Ph.D., is a Research Assistant Professor of &lt;a href=&#34;https://engineering.purdue.edu/ECE&#34;&gt;Elmore Family School of Electrical and Computer Engineering&lt;/a&gt; at Purdue University.&lt;/p&gt;
 &lt;p&gt;As a communications and networking researcher, he is particularly interested in 5G/NextG ajar/open RAN architectures, open edge platforms, implementation aspects of digital communications, real-time wireless networking protocols and large-scale distributed computing, and machine learning in the realms of wireless system design. His research is primarily focused on providing feasibility studies for cutting-edge theoretical breakthroughs in wireless communications and networking through experimentation with 5G and NextG wireless systems.&lt;/p&gt;
-&lt;p&gt;Kwang is a co-author of more than 30 research articles and holds 43 issued U.S. and worldwide patents, as well as over 20 pending patent applications. He has received funding from a variety of sources, including Wistron, Cisco, the United States Army Research Lab, AT&amp;amp;T, the Indiana Economic Development Corporation, and NineTwelve. He is now heading various initiatives on open edge platforms, Wi-Fi 6 and 5G network protocols, and software radio architectures to enable reliable autonomous systems. He co-authored the book 5G System Design – Architectural and Functional Considerations and Long Term Research (Wiley, 2018).&lt;/p&gt;
+&lt;p&gt;Kwang is a co-author of more than 35 research articles and holds 51 issued U.S. and worldwide patents, as well as over 10 pending patent applications. He has received funding from a variety of sources, including Wistron, Cisco, the United States Army Research Lab, AT&amp;amp;T, the Indiana Economic Development Corporation, and NineTwelve. He is now heading various initiatives on open edge platforms, Wi-Fi 6 and 5G network protocols, and software radio architectures to enable reliable autonomous systems. He co-authored the book 5G System Design – Architectural and Functional Considerations and Long Term Research (Wiley, 2018).&lt;/p&gt;
 &lt;p&gt;He received his Ph.D. degree in Electrical and Computer Engineering from Cornell University. In addition to his academic position, he serves as an Executive Technology Advisor for the Purdue Research Foundation. Prior to joining Purdue, he worked at Samsung Electronics and Samsung Advanced Institute of Technology as a Principal Engineer and Senior Research Staff Member, respectively. He is the recipient of &lt;a href=&#34;https://www.sigmobile.org/mobihoc/2021/awards.html&#34;&gt;2021 ACM MobiHoc Best Paper Award&lt;/a&gt;, the 2016 Samsung Best Paper Award (Gold Prize) for Communication and Network Division, the 2014 Samsung CEO Award of Honor for Technical Division, and the 2013 Samsung Advanced Institute of Technology President Award for Infinity Research R&amp;amp;D. Kwang has had the honor of conducting research with multiple postdoctoral fellows, graduate students, and industry engineers, and he is interested in bridging the divide between theory and practice. To that end, he has served as a contributing member of the ATIS Next G Alliance’s National 6G Roadmap and Technology Working Groups.&lt;/p&gt;
 &lt;h4 id=&#34;news&#34;&gt;News&lt;/h4&gt;
 &lt;ul&gt;
-&lt;li&gt;November 2023: Purdue University and six leading companies &lt;a href=&#34;https://www.purdue.edu/newsroom/releases/2023/Q4/purdue-and-six-companies-chart-a-taxonomy-of-6g-technologies.html?utm_source=cision&amp;amp;utm_medium=referral&amp;amp;utm_content=unsuns&amp;amp;utm_campaign=231107mung6gmappingbh&#34;&gt;releasing&lt;/a&gt; the joint Roadmap to 6G Report: a taxonomy of 12 innovations across technology stack and over the time horizon to 2030. Kwang is a co-author for the &lt;a href=&#34;https://engineering.purdue.edu/6G/6G-Global-Roadmap-Taxonomy-Report-3.pdf&#34;&gt;6G Global Roadmap: Taxonomy Report&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;July 2023: Kwang is a guest editor of a &lt;a href=&#34;https://www.sciencedirect.com/journal/computer-networks/about/call-for-papers#evolution-of-networked-ai-systems-trends-challenges-and-opportunities&#34;&gt;special issue&lt;/a&gt; of the Elsevier Computer Networks on Evolution of Networked AI Systems: Trends, Challenges, and Opportunities. &lt;b&gt;Please consider submitting your work!&lt;/b&gt;&lt;/li&gt;
-&lt;li&gt;June 2023: Kwang is a Program &amp;amp; General Co-Chair for &lt;a href=&#34;https://netaisys.github.io&#34;&gt;MobiSys 2023 Workshop on
-Networked AI Systems&lt;/a&gt;, to be held in Helsinki, Finland on June 18, 2023. Please consider submitting your work!&lt;/li&gt;
-&lt;li&gt;April 2023: Our paper on &lt;a href=&#34;&#34;&gt;An empirical study of 5G: Effect of edge on transport protocol and application performance&lt;/a&gt; has been accepted to IEEE/ACM Transactions on Mobile Computing. Congrats, Hyoyoung and Jinsung!&lt;/li&gt;
-&lt;li&gt;March 2023: Our paper on &lt;a href=&#34;https://arxiv.org/pdf/2203.13950.pdf&#34;&gt;Multi-edge server-assisted dynamic federated learning with an optimized floating aggregation point&lt;/a&gt; has been accepted to IEEE/ACM Transactions on Networking. Congrats, Bhargav and Ali!&lt;/li&gt;
-&lt;li&gt;January 2023: Our paper on &lt;a href=&#34;https://kimkt.com/publications/SC_IF_final.pdf&#34;&gt;successive cancellation integer forcing via practical binary codes&lt;/a&gt; has been accepted to IEEE Transactions on Wireless Communications. Congrats, Seok-Ki and Sungho!&lt;/li&gt;
-&lt;li&gt;December 2022: Our project on &lt;i&gt;open edge platform&lt;/i&gt; supported by &lt;a href=&#34;https://www.wistron.com&#34;&gt;Wistron Corporation&lt;/a&gt; has begun. Also, our patent on &lt;a href=&#34;https://uspto.report/patent/app/20210105806&#34;&gt;apparatus and method of low complexity enhanced scheduling for sliding-window coded modulation&lt;/a&gt; has been issued to USPTO.&lt;/li&gt;
-&lt;li&gt;October 2022: Kwang is a member of the team for &lt;a href=&#34;https://engineering.purdue.edu/XGC&#34;&gt;NEXT G Center (XGC)&lt;/a&gt; for Communications and Sensing at Purdue University.&lt;/li&gt;
-&lt;li&gt;September 2022: Kwang joins the &lt;a href=&#34;https://www.comsoc.org/publications/journals/ieee-lnet/ieee-networking-letters-editorial-board&#34;&gt;Editorial Board&lt;/a&gt; of the IEEE Networking Letters. Also, our project on &lt;i&gt;open edge platform&lt;/i&gt; (Principal Investigator) has been funded by &lt;a href=&#34;https://www.wistron.com&#34;&gt;Wistron Corporation&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;July 2022: Our patent on &lt;a href=&#34;https://doi.org/10.8080/1020150108267?urlappend=en&#34;&gt;method and apparatus for supporting low-rate coding based on turbo codes&lt;/a&gt; has been issued to KIPO. Also, our patent on &lt;a href=&#34;https://doi.org/10.8080/1020150043476?urlappend=en&#34;&gt;apparatus and method for transmitting signal using sliding-window superposition coding in a wireless network&lt;/a&gt; has been issued to KIPO.&lt;/li&gt;
-&lt;li&gt;June 2022: Our project on &lt;i&gt;Wi-Fi 6E and 5G&lt;/i&gt; supported by &lt;a href=&#34;https://research.cisco.com&#34;&gt;Cisco Research&lt;/a&gt; has begun. Also, our paper on &lt;a href=&#34;https://kimkt.com/publications/DAG-based_Task_Orchestration_for_Edge_Computing.pdf&#34;&gt;DAG-based task orchestration for edge computing&lt;/a&gt; has been accepted to the 41st International Symposium on Reliable Distributed Systems (&lt;a href=&#34;https://srds-conference.org&#34;&gt;SRDS 2022&lt;/a&gt;). Congrats, Xiang, Shikhar, and Mustafa!&lt;/li&gt;
-&lt;li&gt;April 2022: Our project on &lt;i&gt;Wi-Fi 6E and 5G&lt;/i&gt; (single Principal Investigator) has been funded by &lt;a href=&#34;https://research.cisco.com&#34;&gt;Cisco Research&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;February 2022: Our paper on &lt;a href=&#34;https://kimkt.com/publications/A_Novel_Framework_for_Cost_Constrained_Network_Sharing.pdf&#34;&gt;novel framework for cost constrained network sharing&lt;/a&gt; has been accepted to IEEE/ACM Transactions on Networking. Congrats, Eric!&lt;/li&gt;
-&lt;li&gt;December 2021: Our patent on transceiver and control signaling for interference management has been issued to KIPO.&lt;/li&gt;
-&lt;li&gt;October 2021: Kwang is a staff of &lt;a href=&#34;https://engineering.purdue.edu/6G&#34;&gt;6G Roadmap Task Force&lt;/a&gt; in Krach Institute for Tech Diplomacy at Purdue.&lt;/li&gt;
-&lt;li&gt;September 2021: Our patent on method and apparatus for controlling an interference has been issued to KIPO.&lt;/li&gt;
-&lt;li&gt;August 2021: Our paper on &lt;a href=&#34;https://ieeexplore.ieee.org/document/9685472&#34;&gt;adversarial deep unfolding network for error correcting codes&lt;/a&gt; has been accepted to Globecom 2021. Also, our paper on &lt;a href=&#34;https://ieeexplore.ieee.org/document/9685893&#34;&gt;on-the-fly resource-aware model aggregation for federated learning in heterogeneous edge&lt;/a&gt; has been accepted to Gloebcom 2021. Congrats, Hung and Roberto!&lt;/li&gt;
-&lt;li&gt;July 2021: Our paper on &lt;a href=&#34;https://kimkt.com/publications/Minimizing_Age-of-Information_in_Heterogeneous_Multi-Channel_Systems.pdf&#34;&gt;minimizing age-of-information&lt;/a&gt; has won the &lt;a href=&#34;https://www.sigmobile.org/mobihoc/2021/awards.html&#34;&gt;Best Paper Award&lt;/a&gt; at the 22nd International Symposium on Theory, Algorithmic Foundations, and Protocol Design for Mobile Networks and Mobile Computing (&lt;a href=&#34;https://www.sigmobile.org/mobihoc/2021/&#34;&gt;MobiHoc 2021&lt;/a&gt;).&lt;/li&gt;
-&lt;li&gt;May, 2021: Our paper on &lt;a href=&#34;https://kimkt.com/publications/Minimizing_Age-of-Information_in_Heterogeneous_Multi-Channel_Systems.pdf&#34;&gt;minimizing age-of-information&lt;/a&gt; has been accepted to &lt;a href=&#34;https://www.sigmobile.org/mobihoc/2021/&#34;&gt;MobiHoc 2021&lt;/a&gt;. Congrats, Yihan!&lt;/li&gt;
-&lt;li&gt;April, 2021: Our patent on &lt;a href=&#34;https://uspto.report/patent/app/20210105806&#34;&gt;scheduling for sliding-window coded modulation&lt;/a&gt; has been published to USPTO.&lt;/li&gt;
-&lt;li&gt;March, 2021: Our patent on &lt;a href=&#34;https://doi.org/10.8080/1020130140580?urlappend=en&#34;&gt;feedback scheme for network coding&lt;/a&gt; has been issued to KIPO. Also, our patent on &lt;a href=&#34;https://doi.org/10.8080/1020140077343?urlappend=en&#34;&gt;multicast relaying method and apparatus&lt;/a&gt; has been issued to KIPO.&lt;/li&gt;
+&lt;li&gt;March 2025: Our paper on &lt;a href=&#34;https://ieeexplore.ieee.org/document/10908559&#34;&gt;Key Focus and Enabling Technologies for 6G&lt;/a&gt; has been published in IEEE Communications Magazine. Purdue University and six leading companies released a joint roadmap to 6G: a taxonomy of 12 innovations across technology stack and over the time horizon to 2030.&lt;/li&gt;
+&lt;li&gt;November 2024: Our paper on &lt;a href=&#34;https://arxiv.org/abs/2411.00608&#34;&gt;HopTrack: A Real-time Multi-Object Tracking System for Embedded Devices&lt;/a&gt; has been submitted to IEEE Journal on Selected Areas in Communications.&lt;/li&gt;
+&lt;li&gt;October 2024: Our paper on &lt;a href=&#34;https://arxiv.org/abs/2410.00695&#34;&gt;E-MPC: Edge-assisted Model Predictive Control&lt;/a&gt; has been submitted to IEEE Journal on Selected Areas in Communications.&lt;/li&gt;
+&lt;li&gt;September 2024: Our paper on &lt;a href=&#34;https://arxiv.org/abs/2409.10839&#34;&gt;Dynamic DAG-Application Scheduling for Multi-Tier Edge Computing in Heterogeneous Networks&lt;/a&gt; has been submitted to IEEE Transactions on Mobile Computing.&lt;/li&gt;
+&lt;li&gt;August 2024: Kwang gave an invited talk, &lt;a href=&#34;&#34;&gt;Task Orchestration for Dependable Edge Computing in Heterogeneous Networks&lt;/a&gt;, at 4th SNU-BK Workshop.&lt;/li&gt;
+&lt;li&gt;August 2024: Our paper on &lt;a href=&#34;&#34;&gt;AD-VRAN: DRL-based Adaptive Deployment of Virtualized RAN in an Open Telco Edge Cloud&lt;/a&gt; has been submitted to INFOCOM&#39;25.&lt;/li&gt;
+&lt;li&gt;May 2024: Our paper on &lt;a href=&#34;&#34;&gt;EdgeFlex: Intelligent Edge Collaborative Inference&lt;/a&gt; has been submitted to Eurosys&#39;25.&lt;/li&gt;
+&lt;li&gt;April 2024: Our paper on &lt;a href=&#34;https://ieeexplore.ieee.org/document/10124095&#34;&gt;An empirical study of 5G: effect of edge on transport protocol and application performance&lt;/a&gt; has been published in IEEE Transactions on Mobile Computing. Congrats, Hyoyoung and Jinsung!&lt;/li&gt;
+&lt;li&gt;March 2024: Our paper on &lt;a href=&#34;https://arxiv.org/abs/2404.06324&#34;&gt;Dynamic D2D-Assisted Federated Learning over O-RAN: Performance Analysis, MAC Scheduler, and Asymmetric User Selection&lt;/a&gt; has been submitted to IEEE/ACM Transactions on Networking.&lt;/li&gt;
+&lt;li&gt;January 2024: Our paper on &lt;a href=&#34;https://kimkt.com/publications/Partial-index-tech.pdf&#34;&gt;Minimizing age-of-information in heterogenous multi-channel systems: a new partial-index approach&lt;/a&gt; has been submitted to IEEE/ACM Transactions on Networking.&lt;/li&gt;
 &lt;/ul&gt;
+&lt;!-- * November 2023: Purdue University and six leading companies [releasing](https://www.purdue.edu/newsroom/releases/2023/Q4/purdue-and-six-companies-chart-a-taxonomy-of-6g-technologies.html?utm_source=cision&amp;utm_medium=referral&amp;utm_content=unsuns&amp;utm_campaign=231107mung6gmappingbh) the joint Roadmap to 6G Report: a taxonomy of 12 innovations across technology stack and over the time horizon to 2030. Kwang is a co-author for the [6G Global Roadmap: Taxonomy Report](https://engineering.purdue.edu/6G/6G-Global-Roadmap-Taxonomy-Report-3.pdf).
+* July 2023: Kwang is a guest editor of a [special issue](https://www.sciencedirect.com/journal/computer-networks/about/call-for-papers#evolution-of-networked-ai-systems-trends-challenges-and-opportunities) of the Elsevier Computer Networks on Evolution of Networked AI Systems: Trends, Challenges, and Opportunities. &lt;b&gt;Please consider submitting your work!&lt;/b&gt;
+* June 2023: Kwang is a Program &amp; General Co-Chair for [MobiSys 2023 Workshop on
+Networked AI Systems](https://netaisys.github.io), to be held in Helsinki, Finland on June 18, 2023. Please consider submitting your work!
+* April 2023: Our paper on [An empirical study of 5G: Effect of edge on transport protocol and application performance]( ) has been accepted to IEEE/ACM Transactions on Mobile Computing. Congrats, Hyoyoung and Jinsung!
+* March 2023: Our paper on [Multi-edge server-assisted dynamic federated learning with an optimized floating aggregation point](https://arxiv.org/pdf/2203.13950.pdf) has been accepted to IEEE/ACM Transactions on Networking. Congrats, Bhargav and Ali!
+* January 2023: Our paper on [successive cancellation integer forcing via practical binary codes](https://kimkt.com/publications/SC_IF_final.pdf) has been accepted to IEEE Transactions on Wireless Communications. Congrats, Seok-Ki and Sungho!
+* December 2022: Our project on &lt;i&gt;open edge platform&lt;/i&gt; supported by [Wistron Corporation](https://www.wistron.com) has begun. Also, our patent on [apparatus and method of low complexity enhanced scheduling for sliding-window coded modulation](https://uspto.report/patent/app/20210105806) has been issued to USPTO.
+* October 2022: Kwang is a member of the team for [NEXT G Center (XGC)](https://engineering.purdue.edu/XGC) for Communications and Sensing at Purdue University.
+* September 2022: Kwang joins the [Editorial Board](https://www.comsoc.org/publications/journals/ieee-lnet/ieee-networking-letters-editorial-board) of the IEEE Networking Letters. Also, our project on &lt;i&gt;open edge platform&lt;/i&gt; (Principal Investigator) has been funded by [Wistron Corporation](https://www.wistron.com).
+* July 2022: Our patent on [method and apparatus for supporting low-rate coding based on turbo codes](https://doi.org/10.8080/1020150108267?urlappend=en) has been issued to KIPO. Also, our patent on [apparatus and method for transmitting signal using sliding-window superposition coding in a wireless network](https://doi.org/10.8080/1020150043476?urlappend=en) has been issued to KIPO.
+* June 2022: Our project on &lt;i&gt;Wi-Fi 6E and 5G&lt;/i&gt; supported by [Cisco Research](https://research.cisco.com) has begun. Also, our paper on [DAG-based task orchestration for edge computing](https://kimkt.com/publications/DAG-based_Task_Orchestration_for_Edge_Computing.pdf) has been accepted to the 41st International Symposium on Reliable Distributed Systems ([SRDS 2022](https://srds-conference.org)). Congrats, Xiang, Shikhar, and Mustafa!
+* April 2022: Our project on &lt;i&gt;Wi-Fi 6E and 5G&lt;/i&gt; (single Principal Investigator) has been funded by [Cisco Research](https://research.cisco.com).
+* February 2022: Our paper on [novel framework for cost constrained network sharing](https://kimkt.com/publications/A_Novel_Framework_for_Cost_Constrained_Network_Sharing.pdf) has been accepted to IEEE/ACM Transactions on Networking. Congrats, Eric!
+* December 2021: Our patent on transceiver and control signaling for interference management has been issued to KIPO.
+* October 2021: Kwang is a staff of [6G Roadmap Task Force](https://engineering.purdue.edu/6G) in Krach Institute for Tech Diplomacy at Purdue.
+* September 2021: Our patent on method and apparatus for controlling an interference has been issued to KIPO.
+* August 2021: Our paper on [adversarial deep unfolding network for error correcting codes](https://ieeexplore.ieee.org/document/9685472) has been accepted to Globecom 2021. Also, our paper on [on-the-fly resource-aware model aggregation for federated learning in heterogeneous edge](https://ieeexplore.ieee.org/document/9685893) has been accepted to Gloebcom 2021. Congrats, Hung and Roberto!
+* July 2021: Our paper on [minimizing age-of-information](https://kimkt.com/publications/Minimizing_Age-of-Information_in_Heterogeneous_Multi-Channel_Systems.pdf) has won the [Best Paper Award](https://www.sigmobile.org/mobihoc/2021/awards.html) at the 22nd International Symposium on Theory, Algorithmic Foundations, and Protocol Design for Mobile Networks and Mobile Computing ([MobiHoc 2021](https://www.sigmobile.org/mobihoc/2021/)).
+* May, 2021: Our paper on [minimizing age-of-information](https://kimkt.com/publications/Minimizing_Age-of-Information_in_Heterogeneous_Multi-Channel_Systems.pdf) has been accepted to [MobiHoc 2021](https://www.sigmobile.org/mobihoc/2021/). Congrats, Yihan!
+* April, 2021: Our patent on [scheduling for sliding-window coded modulation](https://uspto.report/patent/app/20210105806) has been published to USPTO.
+* March, 2021: Our patent on [feedback scheme for network coding](https://doi.org/10.8080/1020130140580?urlappend=en) has been issued to KIPO. Also, our patent on [multicast relaying method and apparatus](https://doi.org/10.8080/1020140077343?urlappend=en) has been issued to KIPO. --&gt;
 &lt;h4 id=&#34;professional&#34;&gt;Professional Activities&lt;/h4&gt;
 &lt;ul&gt;
-&lt;li&gt;Associate Editor, &lt;a href=&#34;https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8253410&#34;&gt;IEEE Networking Letters&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Technical program committee member, Posters Session and Student Research Competition, &lt;a href=&#34;https://www.sigmobile.org/mobicom/2021/index.html&#34;&gt;ACM Mobicom 2021&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Technical program committee member, IEEE JSAC Special Issue on Multiple Antenna Technologies for Beyond 5G&lt;/li&gt;
-&lt;li&gt;Technical program committee member, IEEE JSAC Special Issue on Smart Data Pricing for Next-Generation Networks&lt;/li&gt;
-&lt;li&gt;Technical program committee member, IEEE Sarnoff Symposium &lt;a href=&#34;https://ewh.ieee.org/conf/sarnoff/2019/&#34;&gt;Sarnoff 2019&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Associate Editor, &lt;a href=&#34;https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8253410&#34;&gt;IEEE Networking Letters&lt;/a&gt; (2022&amp;ndash;Now)&lt;/li&gt;
+&lt;li&gt;TPC Member, &lt;a href=&#34;https://wiopt2025.github.io/index.html&#34;&gt;IEEE/IFIP WiOpt&lt;/a&gt; (2023-2025)&lt;/li&gt;
+&lt;li&gt;Guest Editor, &lt;a href=&#34;https://www.sciencedirect.com/journal/computer-networks/about/call-for-papers#evolution-of-networked-ai-systems-trends-challenges-and-opportunities&#34;&gt;Elsevier Computer Network Journal: Special Issue on Networked AI Systems&lt;/a&gt; (2023-2024)&lt;/li&gt;
+&lt;li&gt;Member, &lt;a href=&#34;https://engineering.purdue.edu/XGC&#34;&gt;Purdue Next G Center for Communications and Sensing&lt;/a&gt; (2022 – Now)&lt;/li&gt;
+&lt;li&gt;Contributing Member, National 6G Roadmap Group &amp;amp; Technology Working Group, &lt;a href=&#34;https://nextgalliance.org&#34;&gt;ATIS Next G Alliance&lt;/a&gt; (2021&amp;ndash;Now)&lt;/li&gt;
+&lt;li&gt;Member, &lt;a href=&#34;https://engineering.purdue.edu/6G&#34;&gt;6G Roadmap Task Force in Krach Institute for Tech Diplomacy at Purdue&lt;/a&gt; (2021&amp;ndash;Now)&lt;/li&gt;
 &lt;/ul&gt;
+&lt;!-- * Technical program committee member, Posters Session and Student Research Competition, [ACM Mobicom 2021](https://www.sigmobile.org/mobicom/2021/index.html)
+* Technical program committee member, IEEE JSAC Special Issue on Multiple Antenna Technologies for Beyond 5G
+* Technical program committee member, IEEE JSAC Special Issue on Smart Data Pricing for Next-Generation Networks
+* Technical program committee member, IEEE Sarnoff Symposium [Sarnoff 2019](https://ewh.ieee.org/conf/sarnoff/2019/) --&gt;
 </description>
     </item>
     
@@ -125,29 +140,69 @@ West Lafayette IN 47907, United States&lt;br&gt;
 &lt;h2 id=&#34;publications&#34;&gt;Publications&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://ieeexplore.ieee.org/document/10908559&#34;&gt;Key Focus and Enabling Technologies for 6G&lt;/a&gt; &lt;br&gt;
+&lt;span style=&#39;font-variant:small-caps;&#39;&gt;Christopher G. Brinton, Mung Chiang, Kwang Taik Kim, David J. Love, Michael Beesley, Morris Repeta, John Roese, Per Beming, Erik Ekudden, Clara Li, Geng Wu, Nishant Batra, Amitava Ghosh, Volker Ziegler, Tingfang Ji, Rajat Prakash, and John Smee &lt;/span&gt; &lt;br&gt;
+&lt;em&gt;IEEE Comm. Mag.&lt;/em&gt;, 2025.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://arxiv.org/abs/2411.00608&#34;&gt;HopTrack: A Real-time Multi-Object Tracking System for Embedded Devices&lt;/a&gt; &lt;br&gt;
+&lt;span style=&#39;font-variant:small-caps;&#39;&gt;Xiang Li, Cheng Chen, Yuan-Yao Lou, Mustafa Abdallah, Kwang Taik Kim, Saurabh Bagchi &lt;/span&gt; &lt;br&gt;
+submitted to &lt;em&gt;IEEE Journal on Selected Areas in Comm.&lt;/em&gt;, 2025&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://arxiv.org/abs/2410.00695&#34;&gt;E-MPC: Edge-assisted Model Predictive Control&lt;/a&gt; &lt;br&gt;
+&lt;span style=&#39;font-variant:small-caps;&#39;&gt;Yuan-Yao Lou, Jonathan Spencer, Kwang Taik Kim, Mung Chiang &lt;/span&gt; &lt;br&gt;
+submitted to &lt;em&gt;IEEE Journal on Selected Areas in Comm.&lt;/em&gt;, 2025&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://arxiv.org/abs/2409.10839&#34;&gt;Dynamic DAG-Application Scheduling for Multi-Tier Edge Computing in Heterogeneous Networks&lt;/a&gt;  &lt;br&gt;
+&lt;span style=&#39;font-variant:small-caps;&#39;&gt;Xiang Li, Mustafa Abdallah, Yuan-Yao Lou, Mung Chiang, Kwang Taik Kim, Saurabh Bagchi &lt;/span&gt; &lt;br&gt;
+submitted to &lt;em&gt;IEEE Trans. on Mobile Comput.&lt;/em&gt;, 2025&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;&#34;&gt;AD-VRAN: DRL-based Adaptive Deployment of Virtualized RAN in an Open Telco Edge Cloud&lt;/a&gt; &lt;br&gt;
+&lt;span style=&#39;font-variant:small-caps;&#39;&gt;Yuan-Yao Lou, Cheng Chen, Ying-Hui Huang, Kwang Taik Kim, Mung Chiang &lt;/span&gt; &lt;br&gt;
+submitted to &lt;em&gt;INFOCOM&#39;25&lt;/em&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;&#34;&gt;EdgeFlex: Intelligent Edge Collaborative Inference&lt;/a&gt; &lt;br&gt;
+&lt;span style=&#39;font-variant:small-caps;&#39;&gt;Cheng Chen, Xiang Li, Saurabh Bagchi, Kwang Taik Kim &lt;/span&gt; &lt;br&gt;
+submitted to &lt;em&gt;Eurosys&#39;25&lt;/em&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
 &lt;p&gt;&lt;a href=&#34;&#34;&gt;An Empirical Study of 5G: Effect of Edge on Transport Protocol and Application Performance&lt;/a&gt; &lt;br&gt;
 &lt;span style=&#39;font-variant:small-caps;&#39;&gt;Hyoyoung Lim, Jinsung Lee, Jongyun Lee, Sandesh Dhawaskar Sathyanarayana, Junseon Kim, Anh Nguyen, Kwang Taik Kim, Youngbin Im, Mung Chiang, Dirk Grunwald, Kyunghan Lee, Sangtae Ha &lt;/span&gt; &lt;br&gt;
-accepted in &lt;em&gt;IEEE Trans. Mobile Comput.&lt;/em&gt;, 2023&lt;/p&gt;
+&lt;em&gt;IEEE Trans. Mobile Comput.&lt;/em&gt;, 2024&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://arxiv.org/abs/2404.06324&#34;&gt;Dynamic D2D-Assisted Federated Learning over O-RAN: Performance Analysis, MAC Scheduler, and Asymmetric User Selection&lt;/a&gt; &lt;br&gt;
+&lt;span style=&#39;font-variant:small-caps;&#39;&gt;Payam Abdisarabshali, Kwang Taik Kim, Michael Langberg, Weifeng Su, Seyyedali Hosseinalipour &lt;/span&gt; &lt;br&gt;
+submitted to &lt;em&gt;IEEE ACM/Trans. on Netw.&lt;/em&gt;, 2024&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://kimkt.com/publications/Partial-index-tech.pdf&#34;&gt;Minimizing age-of-information in heterogenous multi-channel systems: a new partial-index approach&lt;/a&gt; &lt;br&gt;
+&lt;span style=&#39;font-variant:small-caps;&#39;&gt;Yihan Zou, Sixiang Zhou, Kwang Taik Kim, Xiaojun Lin &lt;/span&gt; &lt;br&gt;
+submitted to &lt;em&gt;IEEE ACM/Trans. on Netw.&lt;/em&gt;, 2024&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;a href=&#34;https://arxiv.org/pdf/2203.13950.pdf&#34;&gt;Multi-Edge Server-Assisted Dynamic Federated Learning with an Optimized Floating Aggregation Point&lt;/a&gt; &lt;br&gt;
 &lt;span style=&#39;font-variant:small-caps;&#39;&gt;Bhargav Ganguly, Seyyedali Hosseinalipour, Kwang Taik Kim, Christopher Brinton, Vaneet Aggarwal, David Love, Mung Chiang &lt;/span&gt; &lt;br&gt;
-accepted in &lt;em&gt;IEEE/ACM Trans. on Netw.&lt;/em&gt;, 2023&lt;/p&gt;
+&lt;em&gt;IEEE/ACM Trans. on Netw.&lt;/em&gt;, 2023&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;a href=&#34;https://kimkt.com/publications/SC_IF_final.pdf&#34;&gt;Successive Cancellation Integer Forcing via Practical Binary Codes&lt;/a&gt; &lt;br&gt;
 &lt;span style=&#39;font-variant:small-caps;&#39;&gt;Seok-Ki Ahn, Sungho Chae, Kwang Taik Kim, Young-Han Kim &lt;/span&gt; &lt;br&gt;
-accepted in &lt;em&gt;IEEE Trans. Wirel. Commun.&lt;/em&gt;, 2023&lt;/p&gt;
+&lt;em&gt;IEEE Trans. Wirel. Commun.&lt;/em&gt;, 2023&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://kimkt.com/publications/A_Novel_Framework_for_Cost_Constrained_Network_Sharing.pdf&#34;&gt;A Novel Framework for Cost Constrained Network Sharing&lt;/a&gt; &lt;br&gt;
+&lt;span style=&#39;font-variant:small-caps;&#39;&gt;Eric Ruzomberka, Kwang Taik Kim, Arnob Ghosh, David J. Love, Mung Chiang&lt;/span&gt; &lt;br&gt;
+&lt;em&gt;IEEE Trans. Mobile Comput.&lt;/em&gt;, 2023&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;a href=&#34;https://ieeexplore.ieee.org/document/9996961&#34;&gt;DAG-based Task Orchestration for Edge Computing&lt;/a&gt; &lt;br&gt;
 &lt;span style=&#39;font-variant:small-caps;&#39;&gt;Xiang Li, Mustafa Abdallah, Shikhar Suryavansh, Mung Chiang, Kwang Taik Kim, Saurabh Bagchi &lt;/span&gt; &lt;br&gt;
 &lt;em&gt;SRDS&lt;/em&gt;, September 2022&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;https://kimkt.com/publications/A_Novel_Framework_for_Cost_Constrained_Network_Sharing.pdf&#34;&gt;A Novel Framework for Cost Constrained Network Sharing&lt;/a&gt; &lt;br&gt;
-&lt;span style=&#39;font-variant:small-caps;&#39;&gt;Eric Ruzomberka, Kwang Taik Kim, Arnob Ghosh, David J. Love, Mung Chiang&lt;/span&gt; &lt;br&gt;
-accepted in &lt;em&gt;IEEE Trans. Mobile Comput.&lt;/em&gt;, 2022&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;a href=&#34;https://arxiv.org/pdf/2112.11491.pdf&#34;&gt;Adversarial Deep Unfolding Network for Error Correcting Codes&lt;/a&gt; &lt;br&gt;
@@ -489,6 +544,22 @@ So, the goal of most of my research is to provide feasibility studies for state-
     
     <item>
       <title></title>
+      <link>https://kimkt.com/top/teaching/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kimkt.com/top/teaching/</guid>
+      <description>&lt;h2 id=&#34;teaching&#34;&gt;Teaching&lt;/h2&gt;
+&lt;ul style=&#34;font-size:16px;&#34;&gt;
+  &lt;li style=&#34;color:#282828;font-style:italic;&#34;&gt;&lt;b&gt;ECE 54300 Digital Communications&lt;/b&gt; &lt;/li&gt;
+  &lt;li style=&#34;color:#282828;font-style:italic;&#34;&gt;&lt;b&gt;ECE 64200 Information Theory and Source Coding&lt;/b&gt; &lt;/li&gt;
+  &lt;li style=&#34;color:#282828;font-style:italic;&#34;&gt;&lt;b&gt;ECE 69500 Stochastic Processes in Information Systems&lt;/b&gt; &lt;/li&gt;
+  &lt;li style=&#34;color:#282828;font-style:italic;&#34;&gt;&lt;b&gt;ECE 20001 Electrical Engineering Fundamentals I&lt;/b&gt; &lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://kimkt.com/top/team/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -512,17 +583,29 @@ Director of KTK Lab&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://yylou.github.io&#34;&gt;&lt;b&gt;Yuan-Yao Mike Lou&lt;/b&gt;&lt;/a&gt; | Email: &lt;a href=&#34;mailto:yylou@purdue.edu&#34;&gt;&lt;a href=&#34;mailto:yylou@purdue.edu&#34;&gt;yylou@purdue.edu&lt;/a&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;!-- is a Ph.D. student in Elmore Family School of Electrical and Computer Engineering at Purdue University. His research interests span edge computing, 5G/NextG networks and systems, IoT, software-defined network, network function virtualization, deep learning, and reinforcement learning. In his current work, he aims to design the containerized (Kubernetes-based) architecture  of the open edge platform in 5G/NextG networks, service function chaining to improve network programmability, and AI/ML to enable automatic orchestration. --&gt;
 &lt;!-- &lt;a href=&#34;mailto:yylou@purdue.edu&#34;&gt;yylou@purdue.edu&lt;/a&gt; --&gt;
-&lt;p&gt;&lt;a href=&#34;https://github.com/ChengChen2020&#34;&gt;&lt;b&gt;Cheng Chen&lt;/b&gt;&lt;/a&gt; | Email: &lt;a href=&#34;mailto:chen4384@purdue.edu&#34;&gt;&lt;a href=&#34;mailto:chen4384@purdue.edu&#34;&gt;chen4384@purdue.edu&lt;/a&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;!-- [&lt;b&gt;Cheng Chen&lt;/b&gt;](https://github.com/ChengChen2020) | Email: &lt;a href=&#34;mailto:chen4384@purdue.edu&#34;&gt;chen4384@purdue.edu&lt;/a&gt; --&gt;
 &lt;p&gt;&lt;a href=&#34;https://in.linkedin.com/in/rittwik-sood?original_referer=https%3A%2F%2Fwww.google.com%2F&#34;&gt;&lt;b&gt;Rittwik Sood&lt;/b&gt;&lt;/a&gt; | Email: &lt;a href=&#34;mailto:sood26@purdue.edu&#34;&gt;&lt;a href=&#34;mailto:sood26@purdue.edu&#34;&gt;sood26@purdue.edu&lt;/a&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.linkedin.com/in/justin-nagovskiy-b544781b7&#34;&gt;&lt;b&gt;Justin Nagovskiy&lt;/b&gt;&lt;/a&gt; | Email: &lt;a href=&#34;mailto:jnagovsk@purdue.edu&#34;&gt;&lt;a href=&#34;mailto:jnagovsk@purdue.edu&#34;&gt;jnagovsk@purdue.edu&lt;/a&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;&#34;&gt;&lt;b&gt;Aravind Muraleedharan&lt;/b&gt;&lt;/a&gt; | Email: &lt;a href=&#34;mailto:amuralee@purdue.edu&#34;&gt;&lt;a href=&#34;mailto:amuralee@purdue.edu&#34;&gt;amuralee@purdue.edu&lt;/a&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;br&gt;
 &lt;!-- #### M.S. Students {#ms} --&gt;
 &lt;h4 id=&#34;undergradaute&#34;&gt;Undergradaute Students&lt;/h4&gt;
-&lt;p&gt;&lt;a href=&#34;&#34;&gt;&lt;b&gt;Basil Khwaja&lt;/b&gt;&lt;/a&gt; | Email: &lt;a href=&#34;mailto:bkhwaja@purdue.edu&#34;&gt;&lt;a href=&#34;mailto:bkhwaja@purdue.edu&#34;&gt;bkhwaja@purdue.edu&lt;/a&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;!-- [&lt;b&gt;Andrew Chen&lt;/b&gt;]( ) | Email: &lt;a href=&#34;mailto:chen4192@purdue.edu&#34;&gt;chen4192@purdue.edu&lt;/a&gt; --&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.linkedin.com/in/basil-khwaja&#34;&gt;&lt;b&gt;Basil Khwaja&lt;/b&gt;&lt;/a&gt; | Email: &lt;a href=&#34;mailto:bkhwaja@purdue.edu&#34;&gt;&lt;a href=&#34;mailto:bkhwaja@purdue.edu&#34;&gt;bkhwaja@purdue.edu&lt;/a&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.linkedin.com/in/francis-ozua&#34;&gt;&lt;b&gt;Francis Ozua&lt;/b&gt;&lt;/a&gt; | Email: &lt;a href=&#34;mailto:fozua@purdue.edu&#34;&gt;&lt;a href=&#34;mailto:fozua@purdue.edu&#34;&gt;fozua@purdue.edu&lt;/a&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.linkedin.com/in/justin-kwon-259594268&#34;&gt;&lt;b&gt;Justin Kwon&lt;/b&gt;&lt;/a&gt; | Email: &lt;a href=&#34;mailto:kwon296@purdue.edu&#34;&gt;&lt;a href=&#34;mailto:kwon296@purdue.edu&#34;&gt;kwon296@purdue.edu&lt;/a&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;br&gt;
-&lt;h4 id=&#34;visitingphd&#34;&gt;Visiting Ph.D. Students&lt;/h4&gt;
-&lt;p&gt;&lt;a href=&#34;https://nxc.snu.ac.kr/people/students#h.votdqrq7ux1a&#34;&gt;&lt;b&gt;Goodsol Lee&lt;/b&gt;&lt;/a&gt; | Email: &lt;a href=&#34;mailto:gslee2@netlab.snu.ac.kr&#34;&gt;&lt;a href=&#34;mailto:gslee2@netlab.snu.ac.kr&#34;&gt;gslee2@netlab.snu.ac.kr&lt;/a&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://nxc.snu.ac.kr/people/students#h.bfx8jrpbmhn8&#34;&gt;&lt;b&gt;Seongsik Cho&lt;/b&gt;&lt;/a&gt; | Email: &lt;a href=&#34;mailto:choss@snu.ac.kr&#34;&gt;&lt;a href=&#34;mailto:choss@snu.ac.kr&#34;&gt;choss@snu.ac.kr&lt;/a&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;!--
+#### Visiting Ph.D. Students {#visitingphd}
+
+[&lt;b&gt;Goodsol Lee&lt;/b&gt;](https://nxc.snu.ac.kr/people/students#h.votdqrq7ux1a) | Email: &lt;a href=&#34;mailto:gslee2@netlab.snu.ac.kr&#34;&gt;gslee2@netlab.snu.ac.kr&lt;/a&gt;
+
+[&lt;b&gt;Seongsik Cho&lt;/b&gt;](https://nxc.snu.ac.kr/people/students#h.bfx8jrpbmhn8) | Email: &lt;a href=&#34;mailto:choss@snu.ac.kr&#34;&gt;choss@snu.ac.kr&lt;/a&gt;
+
+&lt;br&gt;
+--&gt;
+&lt;h4 id=&#34;previousvisitingphd&#34;&gt;Visitors&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.linkedin.com/in/goodsol-lee-25a75b31a&#34;&gt;&lt;b&gt;Goodsol Lee&lt;/b&gt;&lt;/a&gt;, Seoul National University, Dec. 2023 &amp;ndash; May 2024 | Email: &lt;a href=&#34;mailto:gslee2@netlab.snu.ac.kr&#34;&gt;&lt;a href=&#34;mailto:gslee2@netlab.snu.ac.kr&#34;&gt;gslee2@netlab.snu.ac.kr&lt;/a&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://nxc.snu.ac.kr/people/students#h.bfx8jrpbmhn8&#34;&gt;&lt;b&gt;Seongsik Cho&lt;/b&gt;&lt;/a&gt;, Seoul National University, Dec. 2023 &amp;ndash; Dec. 2024 | Email: &lt;a href=&#34;mailto:choss@snu.ac.kr&#34;&gt;&lt;a href=&#34;mailto:choss@snu.ac.kr&#34;&gt;choss@snu.ac.kr&lt;/a&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;br&gt;
 &lt;hr/&gt;
 &lt;!-- ## Opportunities {#opportunities}  

@@ -17,10 +17,10 @@
     
 
     
-      <meta name="title" content="Searches" />
-      <meta property="og:title" content="Searches - Professor Kwang Taik Kim" />
-      <meta property="twitter:title" content="Searches - Professor Kwang Taik Kim" />
-      <meta property="twitter:text:title" content="Searches - Professor Kwang Taik Kim" />
+      <meta name="title" content="Professor Kwang Taik Kim" />
+      <meta property="og:title" content="Professor Kwang Taik Kim" />
+      <meta property="twitter:title" content="Professor Kwang Taik Kim" />
+      <meta property="twitter:text:title" content="Professor Kwang Taik Kim" />
     
 
     
@@ -35,12 +35,12 @@
     <meta name="keyword"  content="5G, NextG, Edge Computing, Open Architecture, Wireless Communications, Networking, Edge Platform, Large-Scale Distributed Computing, AI/ML">
     <link rel="shortcut icon" href="/img/favicon.ico">
 
-    <title>Searches - Kwang Taik Kim</title>
+    <title>Kwang Taik Kim</title>
 
     
 
     
-    <link rel="canonical" href="/search/">
+    <link rel="canonical" href="/top/teaching/">
 
     
 
@@ -86,7 +86,6 @@
     
 
     
-    <link rel="alternate" type="application/rss+xml" href="https://kimkt.com/search/index.xml" title="Kwang Taik Kim" />
     </head>
 
 
@@ -181,203 +180,59 @@
 
 
 
-<div class="container">
-    <div class="row">
-        
-        
-   	    <div class="
-            col-lg-8 col-lg-offset-1
-            col-md-8 col-md-offset-1
-            col-sm-12
-            col-xs-12
-            post-container
-        ">
+
+<article>
+    <div class="container">
+        <div class="row">
+
             
-<script src="https://cdn.jsdelivr.net/npm/instantsearch.js@2.6.0/dist/instantsearch.min.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/moment@2.22.2/min/moment.min.js"></script>
-<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/instantsearch.js@2.6.0/dist/instantsearch.min.css">
-<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/instantsearch.js@2.6.0/dist/instantsearch-theme-algolia.min.css">
+            <div class="
+                col-lg-8 col-lg-offset-2
+                col-md-10 col-md-offset-1
+                post-container">
 
-<div id="search-searchbar"></div>
- <div class="post-list" id="search-hits">
- </div>
-
-<script>
-const search = instantsearch({
-  appId: '',
-  indexName: '',
-  apiKey: ''
-});
-
-const hitTemplate = function(hit) {
+         	<h2 id="teaching">Teaching</h2>
+<ul style="font-size:16px;">
+  <li style="color:#282828;font-style:italic;"><b>ECE 54300 Digital Communications</b> </li>
+  <li style="color:#282828;font-style:italic;"><b>ECE 64200 Information Theory and Source Coding</b> </li>
+  <li style="color:#282828;font-style:italic;"><b>ECE 69500 Stochastic Processes in Information Systems</b> </li>
+  <li style="color:#282828;font-style:italic;"><b>ECE 20001 Electrical Engineering Fundamentals I</b> </li>
+</ul>
 
 
-  let date = '';
-  if (hit.date) {
-    date = moment.unix(hit.date).format('MMM D, YYYY');
-  }
-  let url = `${hit.url}#${hit.anchor}`;
-  const title = hit._highlightResult.title.value;
-
-  let breadcrumbs = '';
-  if (hit._highlightResult.headings) {
-    breadcrumbs = hit._highlightResult.headings.map(match => {
-      return `<span class="post-breadcrumb">${match.value}</span>`
-    }).join(' > ')
-  }
-
-  let content = "" ; 
-  if (hit._highlightResult.content){
-      content = hit._highlightResult.content.value;
-  }
-  else{
-      content = hit.summary;
-  }
-
-
-  return `
-    <div class="post-item">
-      <span class="post-meta">${date}</span>
-      <h2><a class="post-link" href="${url}">${title}</a></h2>
-      <a href="${url}" class="post-breadcrumbs">${breadcrumbs}</a>
-      <div class="post-snippet">${content}</div>
-    </div>
-  `;
-}
-
-
-search.addWidget(
-  instantsearch.widgets.searchBox({
-    container: '#search-searchbar',
-    placeholder: 'Search into posts...',
-    poweredBy: true 
-  })
-);
-
-search.addWidget(
-  instantsearch.widgets.hits({
-    container: '#search-hits',
-    templates: {
-      item: hitTemplate
-    }
-  })
-);
-
-search.start();
-</script>
-
-<style>
-.ais-search-box {
-  max-width: 100%;
-  margin-bottom: 15px;
-}
-.post-item {
-  margin-bottom: 30px;
-}
-.post-link .ais-Highlight {
-  color: #111;
-  font-style: normal;
-  text-decoration: underline;
-}
-.post-breadcrumbs {
-  color: #424242;
-  display: block;
-}
-.post-breadcrumb {
-  font-size: 18px;
-  color: #424242;
-}
-.post-breadcrumb .ais-Highlight {
-  font-weight: bold;
-  font-style: normal;
-}
-.post-snippet .ais-Highlight {
-  color: #2a7ae2;
-  font-style: normal;
-  font-weight: bold;
-}
-.post-snippet img {
-  display: none;
-}
-</style>
-
-       	</div>
-        
-
-<div class="
-    col-lg-3 col-lg-offset-0
-    col-md-3 col-md-offset-0
-    col-sm-12
-    col-xs-12
-    sidebar-container
-">
-
-    
-  	
-      <section class="visible-md visible-lg">
-  	  <h6> </h6>
-          <div class="short-about">
-              
-              <a href="/top/about">
-                 <img src="/img/about/KTKim.jpg" alt="avatar" style="cursor: pointer" />
-              </a>
-              
-              
-                  <p>Research Assistant Professor of Elmore Family School of Electrical and Computer Engineering at Purdue University. kimkt@purdue.edu</p>
-              
-             
-             <ul class="list-inline">
-             
-             <li>
-                 <a href="mailto:kimkt@purdue.edu">
-                     <span class="fa-stack fa-lg">
-                         <i class="fa fa-circle fa-stack-2x"></i>
-                         <i class="fa fa-envelope fa-stack-1x fa-inverse"></i>
-                     </span>
-                 </a>
-             </li>
-             
-               
-               
-               
-               
-               
-               
-               
-              </ul>
             </div>
             
-      </section>
-  	
+            <div class="
+                col-lg-8 col-lg-offset-2
+                col-md-10 col-md-offset-1
+                sidebar-container">
+              
+              
 
-      
-      
-      <section>
-          <hr>
-          <h6>QUICK LINKS</h6>
-          <ul class="list-inline">
               
-              <li><a target="_self" href="https://engineering.purdue.edu/ECE">Purdue ECE</a></li>
-              
-              <li><a target="_self" href="https://engineering.purdue.edu/XGC">Purdue NEXT G Center (XGC) for Communications and Sensing</a></li>
-              
-              <li><a target="_self" href="https://engineering.purdue.edu/6G">6G Roadmap Task Force in Krach Institute for Tech Diplomacy at Purdue</a></li>
-              
-              <li><a target="_self" href="https://indiana5gzone.com">Indy 5G Zone</a></li>
-              
-          </ul>
-      </section>
-      
+              <section>
+                <br>
+                <h5>QUICK LINKS</h5>
+                  <ul class="list-inline">
+                      
+                      <li><a target="_self" href="https://engineering.purdue.edu/ECE">Purdue ECE</a></li>
+                      
+                      <li><a target="_self" href="https://engineering.purdue.edu/XGC">Purdue NEXT G Center (XGC) for Communications and Sensing</a></li>
+                      
+                      <li><a target="_self" href="https://engineering.purdue.edu/6G">6G Roadmap Task Force in Krach Institute for Tech Diplomacy at Purdue</a></li>
+                      
+                      <li><a target="_self" href="https://indiana5gzone.com">Indy 5G Zone</a></li>
+                      
+                  </ul>
+              </section>
 
-        
-        
+              
+              
+            </div>
+        </div>
+    </div>
+</article>
 
-    
-    
-</div>
-
-	</div>
-</div>
 
 
 
