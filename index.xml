@@ -17,17 +17,19 @@
 &lt;p&gt;He received his Ph.D. degree in Electrical and Computer Engineering from Cornell University. In addition to his academic position, he serves as an Executive Technology Advisor for the Purdue Research Foundation. Prior to joining Purdue, he worked at Samsung Electronics and Samsung Advanced Institute of Technology as a Principal Engineer and Senior Research Staff Member, respectively. He is the recipient of &lt;a href=&#34;https://www.sigmobile.org/mobihoc/2021/awards.html&#34;&gt;2021 ACM MobiHoc Best Paper Award&lt;/a&gt;, the 2016 Samsung Best Paper Award (Gold Prize) for Communication and Network Division, the 2014 Samsung CEO Award of Honor for Technical Division, and the 2013 Samsung Advanced Institute of Technology President Award for Infinity Research R&amp;amp;D. Kwang has had the honor of conducting research with multiple postdoctoral fellows, graduate students, and industry engineers, and he is interested in bridging the divide between theory and practice. To that end, he has served as a contributing member of the ATIS Next G Alliance’s National 6G Roadmap and Technology Working Groups.&lt;/p&gt;
 &lt;h4 id=&#34;news&#34;&gt;News&lt;/h4&gt;
 &lt;ul&gt;
+&lt;li&gt;July 2025: Our paper on &lt;a href=&#34;&#34;&gt;QCON: Seamless QoE-Aware 5G Streaming via Multi-Connectivity&lt;/a&gt; has been accepted in 23rd USENIX Symposium on Networked Systems Design and Implementation (NSDI&#39;26). Congrats, Goodsol and the whole team!&lt;/li&gt;
+&lt;li&gt;June 2025: Kwang gave an invited talk, &lt;a href=&#34;&#34;&gt;Harnessing NextG Edge Networks for Learning-based Robotic Systems&lt;/a&gt;, at Seoul National University.&lt;/li&gt;
 &lt;li&gt;March 2025: Our paper on &lt;a href=&#34;https://ieeexplore.ieee.org/document/10908559&#34;&gt;Key Focus and Enabling Technologies for 6G&lt;/a&gt; has been published in IEEE Communications Magazine. Purdue University and six leading companies released a joint roadmap to 6G: a taxonomy of 12 innovations across technology stack and over the time horizon to 2030.&lt;/li&gt;
 &lt;li&gt;November 2024: Our paper on &lt;a href=&#34;https://arxiv.org/abs/2411.00608&#34;&gt;HopTrack: A Real-time Multi-Object Tracking System for Embedded Devices&lt;/a&gt; has been submitted to IEEE Journal on Selected Areas in Communications.&lt;/li&gt;
 &lt;li&gt;October 2024: Our paper on &lt;a href=&#34;https://arxiv.org/abs/2410.00695&#34;&gt;E-MPC: Edge-assisted Model Predictive Control&lt;/a&gt; has been submitted to IEEE Journal on Selected Areas in Communications.&lt;/li&gt;
 &lt;li&gt;September 2024: Our paper on &lt;a href=&#34;https://arxiv.org/abs/2409.10839&#34;&gt;Dynamic DAG-Application Scheduling for Multi-Tier Edge Computing in Heterogeneous Networks&lt;/a&gt; has been submitted to IEEE Transactions on Mobile Computing.&lt;/li&gt;
 &lt;li&gt;August 2024: Kwang gave an invited talk, &lt;a href=&#34;&#34;&gt;Task Orchestration for Dependable Edge Computing in Heterogeneous Networks&lt;/a&gt;, at 4th SNU-BK Workshop.&lt;/li&gt;
 &lt;li&gt;August 2024: Our paper on &lt;a href=&#34;&#34;&gt;AD-VRAN: DRL-based Adaptive Deployment of Virtualized RAN in an Open Telco Edge Cloud&lt;/a&gt; has been submitted to INFOCOM&#39;25.&lt;/li&gt;
-&lt;li&gt;May 2024: Our paper on &lt;a href=&#34;&#34;&gt;EdgeFlex: Intelligent Edge Collaborative Inference&lt;/a&gt; has been submitted to Eurosys&#39;25.&lt;/li&gt;
-&lt;li&gt;April 2024: Our paper on &lt;a href=&#34;https://ieeexplore.ieee.org/document/10124095&#34;&gt;An empirical study of 5G: effect of edge on transport protocol and application performance&lt;/a&gt; has been published in IEEE Transactions on Mobile Computing. Congrats, Hyoyoung and Jinsung!&lt;/li&gt;
-&lt;li&gt;March 2024: Our paper on &lt;a href=&#34;https://arxiv.org/abs/2404.06324&#34;&gt;Dynamic D2D-Assisted Federated Learning over O-RAN: Performance Analysis, MAC Scheduler, and Asymmetric User Selection&lt;/a&gt; has been submitted to IEEE/ACM Transactions on Networking.&lt;/li&gt;
-&lt;li&gt;January 2024: Our paper on &lt;a href=&#34;https://kimkt.com/publications/Partial-index-tech.pdf&#34;&gt;Minimizing age-of-information in heterogenous multi-channel systems: a new partial-index approach&lt;/a&gt; has been submitted to IEEE/ACM Transactions on Networking.&lt;/li&gt;
 &lt;/ul&gt;
+&lt;!-- * May 2024: Our paper on [EdgeFlex: Intelligent Edge Collaborative Inference]( ) has been submitted to Eurosys&#39;25.
+* April 2024: Our paper on [An empirical study of 5G: effect of edge on transport protocol and application performance](https://ieeexplore.ieee.org/document/10124095) has been published in IEEE Transactions on Mobile Computing. Congrats, Hyoyoung and Jinsung!
+* March 2024: Our paper on [Dynamic D2D-Assisted Federated Learning over O-RAN: Performance Analysis, MAC Scheduler, and Asymmetric User Selection](https://arxiv.org/abs/2404.06324) has been submitted to IEEE/ACM Transactions on Networking.
+* January 2024: Our paper on [Minimizing age-of-information in heterogenous multi-channel systems: a new partial-index approach](https://kimkt.com/publications/Partial-index-tech.pdf) has been submitted to IEEE/ACM Transactions on Networking. --&gt;
 &lt;!-- * November 2023: Purdue University and six leading companies [releasing](https://www.purdue.edu/newsroom/releases/2023/Q4/purdue-and-six-companies-chart-a-taxonomy-of-6g-technologies.html?utm_source=cision&amp;utm_medium=referral&amp;utm_content=unsuns&amp;utm_campaign=231107mung6gmappingbh) the joint Roadmap to 6G Report: a taxonomy of 12 innovations across technology stack and over the time horizon to 2030. Kwang is a co-author for the [6G Global Roadmap: Taxonomy Report](https://engineering.purdue.edu/6G/6G-Global-Roadmap-Taxonomy-Report-3.pdf).
 * July 2023: Kwang is a guest editor of a [special issue](https://www.sciencedirect.com/journal/computer-networks/about/call-for-papers#evolution-of-networked-ai-systems-trends-challenges-and-opportunities) of the Elsevier Computer Networks on Evolution of Networked AI Systems: Trends, Challenges, and Opportunities. &lt;b&gt;Please consider submitting your work!&lt;/b&gt;
 * June 2023: Kwang is a Program &amp; General Co-Chair for [MobiSys 2023 Workshop on
@@ -140,9 +142,14 @@ West Lafayette IN 47907, United States&lt;br&gt;
 &lt;h2 id=&#34;publications&#34;&gt;Publications&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;&#34;&gt;QCON: Seamless QoE-Aware 5G Streaming via Multi-Connectivity&lt;/a&gt; &lt;br&gt;
+&lt;span style=&#39;font-variant:small-caps;&#39;&gt;Goodsol Lee, Junhong Min, Seyeon Kim, Juheon Yi, Kwang Taik Kim, Mung Chiang, Sangtae Ha, Kyunghan Lee, Saewoong Bahk &lt;/span&gt; &lt;br&gt;
+accepted in &lt;em&gt;NSDI&#39;26&lt;/em&gt;, 2025&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
 &lt;p&gt;&lt;a href=&#34;https://ieeexplore.ieee.org/document/10908559&#34;&gt;Key Focus and Enabling Technologies for 6G&lt;/a&gt; &lt;br&gt;
 &lt;span style=&#39;font-variant:small-caps;&#39;&gt;Christopher G. Brinton, Mung Chiang, Kwang Taik Kim, David J. Love, Michael Beesley, Morris Repeta, John Roese, Per Beming, Erik Ekudden, Clara Li, Geng Wu, Nishant Batra, Amitava Ghosh, Volker Ziegler, Tingfang Ji, Rajat Prakash, and John Smee &lt;/span&gt; &lt;br&gt;
-&lt;em&gt;IEEE Comm. Mag.&lt;/em&gt;, 2025.&lt;/p&gt;
+&lt;em&gt;IEEE Comm. Mag.&lt;/em&gt;, 2025&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;a href=&#34;https://arxiv.org/abs/2411.00608&#34;&gt;HopTrack: A Real-time Multi-Object Tracking System for Embedded Devices&lt;/a&gt; &lt;br&gt;
@@ -551,8 +558,9 @@ So, the goal of most of my research is to provide feasibility studies for state-
       <description>&lt;h2 id=&#34;teaching&#34;&gt;Teaching&lt;/h2&gt;
 &lt;ul style=&#34;font-size:16px;&#34;&gt;
   &lt;li style=&#34;color:#282828;font-style:italic;&#34;&gt;&lt;b&gt;ECE 54300 Digital Communications&lt;/b&gt; &lt;/li&gt;
-  &lt;li style=&#34;color:#282828;font-style:italic;&#34;&gt;&lt;b&gt;ECE 64200 Information Theory and Source Coding&lt;/b&gt; &lt;/li&gt;
+  &lt;!-- &lt;li style=&#34;color:#282828;font-style:italic;&#34;&gt;&lt;b&gt;ECE 64200 Information Theory and Source Coding&lt;/b&gt; &lt;/li&gt; --&gt;
   &lt;li style=&#34;color:#282828;font-style:italic;&#34;&gt;&lt;b&gt;ECE 69500 Stochastic Processes in Information Systems&lt;/b&gt; &lt;/li&gt;
+  &lt;li style=&#34;color:#282828;font-style:italic;&#34;&gt;&lt;b&gt;ECE 30100 Signals and Systems&lt;/b&gt; &lt;/li&gt;
   &lt;li style=&#34;color:#282828;font-style:italic;&#34;&gt;&lt;b&gt;ECE 20001 Electrical Engineering Fundamentals I&lt;/b&gt; &lt;/li&gt;
 &lt;/ul&gt;
 </description>
@@ -583,16 +591,18 @@ Director of KTK Lab&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://yylou.github.io&#34;&gt;&lt;b&gt;Yuan-Yao Mike Lou&lt;/b&gt;&lt;/a&gt; | Email: &lt;a href=&#34;mailto:yylou@purdue.edu&#34;&gt;&lt;a href=&#34;mailto:yylou@purdue.edu&#34;&gt;yylou@purdue.edu&lt;/a&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;!-- is a Ph.D. student in Elmore Family School of Electrical and Computer Engineering at Purdue University. His research interests span edge computing, 5G/NextG networks and systems, IoT, software-defined network, network function virtualization, deep learning, and reinforcement learning. In his current work, he aims to design the containerized (Kubernetes-based) architecture  of the open edge platform in 5G/NextG networks, service function chaining to improve network programmability, and AI/ML to enable automatic orchestration. --&gt;
 &lt;!-- &lt;a href=&#34;mailto:yylou@purdue.edu&#34;&gt;yylou@purdue.edu&lt;/a&gt; --&gt;
-&lt;!-- [&lt;b&gt;Cheng Chen&lt;/b&gt;](https://github.com/ChengChen2020) | Email: &lt;a href=&#34;mailto:chen4384@purdue.edu&#34;&gt;chen4384@purdue.edu&lt;/a&gt; --&gt;
-&lt;p&gt;&lt;a href=&#34;https://in.linkedin.com/in/rittwik-sood?original_referer=https%3A%2F%2Fwww.google.com%2F&#34;&gt;&lt;b&gt;Rittwik Sood&lt;/b&gt;&lt;/a&gt; | Email: &lt;a href=&#34;mailto:sood26@purdue.edu&#34;&gt;&lt;a href=&#34;mailto:sood26@purdue.edu&#34;&gt;sood26@purdue.edu&lt;/a&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.linkedin.com/in/justin-nagovskiy-b544781b7&#34;&gt;&lt;b&gt;Justin Nagovskiy&lt;/b&gt;&lt;/a&gt; | Email: &lt;a href=&#34;mailto:jnagovsk@purdue.edu&#34;&gt;&lt;a href=&#34;mailto:jnagovsk@purdue.edu&#34;&gt;jnagovsk@purdue.edu&lt;/a&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;&#34;&gt;&lt;b&gt;Aravind Muraleedharan&lt;/b&gt;&lt;/a&gt; | Email: &lt;a href=&#34;mailto:amuralee@purdue.edu&#34;&gt;&lt;a href=&#34;mailto:amuralee@purdue.edu&#34;&gt;amuralee@purdue.edu&lt;/a&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;!-- [&lt;b&gt;Cheng Chen&lt;/b&gt;](https://github.com/ChengChen2020) | Email: &lt;a href=&#34;mailto:chen4384@purdue.edu&#34;&gt;chen4384@purdue.edu&lt;/a&gt; --&gt;
+&lt;!-- [&lt;b&gt;Rittwik Sood&lt;/b&gt;](https://in.linkedin.com/in/rittwik-sood?original_referer=https%3A%2F%2Fwww.google.com%2F) | Email: &lt;a href=&#34;mailto:sood26@purdue.edu&#34;&gt;sood26@purdue.edu&lt;/a&gt; --&gt;
 &lt;br&gt;
-&lt;!-- #### M.S. Students {#ms} --&gt;
-&lt;h4 id=&#34;undergradaute&#34;&gt;Undergradaute Students&lt;/h4&gt;
+&lt;h4 id=&#34;ms&#34;&gt;M.S. Students&lt;/h4&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.linkedin.com/in/basil-khwaja&#34;&gt;&lt;b&gt;Basil Khwaja&lt;/b&gt;&lt;/a&gt; | Email: &lt;a href=&#34;mailto:bkhwaja@purdue.edu&#34;&gt;&lt;a href=&#34;mailto:bkhwaja@purdue.edu&#34;&gt;bkhwaja@purdue.edu&lt;/a&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;br&gt;
+&lt;h4 id=&#34;undergradaute&#34;&gt;Undergradaute Students&lt;/h4&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.linkedin.com/in/francis-ozua&#34;&gt;&lt;b&gt;Francis Ozua&lt;/b&gt;&lt;/a&gt; | Email: &lt;a href=&#34;mailto:fozua@purdue.edu&#34;&gt;&lt;a href=&#34;mailto:fozua@purdue.edu&#34;&gt;fozua@purdue.edu&lt;/a&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.linkedin.com/in/justin-kwon-259594268&#34;&gt;&lt;b&gt;Justin Kwon&lt;/b&gt;&lt;/a&gt; | Email: &lt;a href=&#34;mailto:kwon296@purdue.edu&#34;&gt;&lt;a href=&#34;mailto:kwon296@purdue.edu&#34;&gt;kwon296@purdue.edu&lt;/a&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.linkedin.com/in/raunak-dani&#34;&gt;&lt;b&gt;Raunak Dani&lt;/b&gt;&lt;/a&gt; | Email: &lt;a href=&#34;mailto:dani@purdue.edu&#34;&gt;&lt;a href=&#34;mailto:dani@purdue.edu&#34;&gt;dani@purdue.edu&lt;/a&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;br&gt;
 &lt;!--
 #### Visiting Ph.D. Students {#visitingphd}
