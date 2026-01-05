@@ -1,0 +1,592 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tops on Kwang Taik Kim</title>
+    <link>https://kimkt.com/top/</link>
+    <description>Recent content in Tops on Kwang Taik Kim</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://kimkt.com/top/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://kimkt.com/top/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kimkt.com/top/about/</guid>
+      <description>&lt;h2 id=&#34;contact&#34;&gt;Contact&lt;/h2&gt;
+&lt;style&gt;
+  li:not(:last-child) {
+    margin-bottom: 3px;
+  }
+&lt;/style&gt;
+&lt;p&gt;&lt;b&gt;KWANG TAIK KIM&lt;/b&gt;&lt;/p&gt;
+&lt;div style=&#34;line-height:0%;&#34;&gt;
+    &lt;br&gt;
+&lt;/div&gt;
+Research Assistant Professor of Elmore Family School of Electrical and Computer Engineering&lt;br&gt;
+Purdue University&lt;br&gt;
+501 Northwestern Ave., MSEE 340&lt;br&gt;
+West Lafayette IN 47907, United States&lt;br&gt;
+&lt;div style=&#34;line-height:75%;&#34;&gt;
+    &lt;br&gt;
+&lt;/div&gt;
+&lt;b&gt;T&lt;/b&gt;: ‭(765) 496-4539‬&lt;br&gt;
+&lt;a href=&#34;mailto:kimkt@purdue.edu&#34;&gt;kimkt@purdue.edu&lt;/a&gt;
+&lt;!--
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;rarr;&amp;nbsp;&amp;nbsp;[Get a pdf copy of my CV!](https://XXX.com/files/CV_name_2020-01-01.pdf)
+//--&gt;
+&lt;hr/&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://kimkt.com/top/openings/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kimkt.com/top/openings/</guid>
+      <description>&lt;h2 id=&#34;prospective&#34;&gt;Opportunities&lt;/h2&gt;
+&lt;ul style=&#34;font-size:16px;&#34;&gt;
+  &lt;li style=&#34;color:#282828;font-style:italic;&#34;&gt;&lt;b&gt;Graduate Research Openings&lt;/b&gt; &lt;/li&gt; There are openings for graduate students in my group. I encourage prospective students with an interest in 5G/NextG wireless systems and edge computing to apply to the ECE graduate program at Purdue. If you have already been admitted to Purdue, please send me an email and I&#39;d be happy to chat further.
+  &lt;li style=&#34;color:#282828;font-style:italic;&#34;&gt;&lt;b&gt;Undergraduate Research Openings&lt;/b&gt; &lt;/li&gt; I have openings for Purdue undergraduates that are interested in participating in research projects and gaining expertise. Kindly shoot me an email so that we may discuss this further. (It is worth noting that I anticipate undergraduate researchers to be self-motivated and to view research as a commitment comparable to taking a class.)
+  &lt;li style=&#34;color:#282828;font-style:italic;&#34;&gt;&lt;b&gt;Postdoctoral Research Openings&lt;/b&gt; &lt;/li&gt; There are positions available for postdoctoral fellows in my research team. Please send me an email and we can discuss further.
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://kimkt.com/top/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kimkt.com/top/publications/</guid>
+      <description>&lt;h3 id=&#34;overview-of-research-projects&#34;&gt;Overview of Research Projects&lt;/h3&gt;
+&lt;p&gt;The current research thrusts of my group focus on:
+5G/NextG ajar/open architectures of radio access networks, real-time edge platform architectures, air-interface &amp;amp; networking protocol designs, and experiementation (e.g., &lt;a href=&#34;https://indiana5gzone.com&#34;&gt;https://indiana5gzone.com&lt;/a&gt;, &lt;a href=&#34;https://ninetwelveconvergence.us&#34;&gt;https://ninetwelveconvergence.us&lt;/a&gt;) to provide feasibility and resilience studies for state-of-the-art theoretical advances in wireless communications &amp;amp; networking, core, and edge computing.&lt;/p&gt;
+&lt;h5 id=&#34;content&#34;&gt;Content&lt;/h5&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#publications&#34;&gt;Publications&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#books&#34;&gt;Book Chapters&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#patents&#34;&gt;Granted Patents&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;publications&#34;&gt;Publications&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;&#34;&gt;AD-VRAN: DRL-based Adaptive Deployment of Virtualized RAN in an Open Telco Edge Cloud&lt;/a&gt; &lt;br&gt;
+&lt;span style=&#39;font-variant:small-caps;&#39;&gt;Yuan-Yao Lou, Cheng Chen, Ying-Hui Huang, Mung Chiang, Kwang Taik Kim &lt;/span&gt; &lt;br&gt;
+accepted in &lt;em&gt;IEEE Journal on Selected Areas in Comm. (JSAC)&lt;/em&gt;, 2025&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://ieeexplore.ieee.org/document/11318028&#34;&gt;Minimizing Age-of-Information in Heterogenous Multi-Channel Systems: a New Partial-Index Approach&lt;/a&gt; &lt;br&gt;
+&lt;span style=&#39;font-variant:small-caps;&#39;&gt;Yihan Zou, Sixiang Zhou, Kwang Taik Kim, Xiaojun Lin &lt;/span&gt; &lt;br&gt;
+accepted in &lt;em&gt;IEEE ACM/Trans. on Netw.&lt;/em&gt;, 2025&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://ieeexplore.ieee.org/document/11241147&#34;&gt;Dynamic D2D-Assisted Federated Learning over O-RAN: Performance Analysis, MAC Scheduler, and Asymmetric User Selection&lt;/a&gt; &lt;br&gt;
+&lt;span style=&#39;font-variant:small-caps;&#39;&gt;Payam Abdisarabshali, Kwang Taik Kim, Michael Langberg, Weifeng Su, Seyyedali Hosseinalipour &lt;/span&gt; &lt;br&gt;
+&lt;em&gt;IEEE ACM/Trans. on Netw.&lt;/em&gt;, 2025&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;&#34;&gt;QCON: Seamless QoE-Aware 5G Streaming via Multi-Connectivity&lt;/a&gt; &lt;br&gt;
+&lt;span style=&#39;font-variant:small-caps;&#39;&gt;Goodsol Lee, Junhong Min, Seyeon Kim, Juheon Yi, Kwang Taik Kim, Mung Chiang, Sangtae Ha, Kyunghan Lee, Saewoong Bahk &lt;/span&gt; &lt;br&gt;
+accepted in &lt;em&gt;NSDI&#39;26&lt;/em&gt;, 2025&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://ieeexplore.ieee.org/document/10908559&#34;&gt;Key Focus and Enabling Technologies for 6G&lt;/a&gt; &lt;br&gt;
+&lt;span style=&#39;font-variant:small-caps;&#39;&gt;Christopher G. Brinton, Mung Chiang, Kwang Taik Kim, David J. Love, Michael Beesley, Morris Repeta, John Roese, Per Beming, Erik Ekudden, Clara Li, Geng Wu, Nishant Batra, Amitava Ghosh, Volker Ziegler, Tingfang Ji, Rajat Prakash, and John Smee &lt;/span&gt; &lt;br&gt;
+&lt;em&gt;IEEE Comm. Mag.&lt;/em&gt;, 2025&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://arxiv.org/abs/2411.00608&#34;&gt;HopTrack: A Real-time Multi-Object Tracking System for Embedded Devices&lt;/a&gt; &lt;br&gt;
+&lt;span style=&#39;font-variant:small-caps;&#39;&gt;Xiang Li, Cheng Chen, Yuan-Yao Lou, Mustafa Abdallah, Kwang Taik Kim, Saurabh Bagchi &lt;/span&gt; &lt;br&gt;
+submitted to &lt;em&gt;IEEE Journal on Selected Areas in Comm.&lt;/em&gt;, 2025&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://arxiv.org/abs/2410.00695&#34;&gt;E-MPC: Edge-assisted Model Predictive Control&lt;/a&gt; &lt;br&gt;
+&lt;span style=&#39;font-variant:small-caps;&#39;&gt;Yuan-Yao Lou, Jonathan Spencer, Kwang Taik Kim, Mung Chiang &lt;/span&gt; &lt;br&gt;
+submitted to &lt;em&gt;IEEE Journal on Selected Areas in Comm.&lt;/em&gt;, 2025&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://arxiv.org/abs/2409.10839&#34;&gt;Dynamic DAG-Application Scheduling for Multi-Tier Edge Computing in Heterogeneous Networks&lt;/a&gt;  &lt;br&gt;
+&lt;span style=&#39;font-variant:small-caps;&#39;&gt;Xiang Li, Mustafa Abdallah, Yuan-Yao Lou, Mung Chiang, Kwang Taik Kim, Saurabh Bagchi &lt;/span&gt; &lt;br&gt;
+submitted to &lt;em&gt;IEEE Trans. on Mobile Comput.&lt;/em&gt;, 2025&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;&#34;&gt;EdgeFlex: Intelligent Edge Collaborative Inference&lt;/a&gt; &lt;br&gt;
+&lt;span style=&#39;font-variant:small-caps;&#39;&gt;Cheng Chen, Xiang Li, Saurabh Bagchi, Kwang Taik Kim &lt;/span&gt; &lt;br&gt;
+submitted to &lt;em&gt;Eurosys&#39;25&lt;/em&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://ieeexplore.ieee.org/document/10124095&#34;&gt;An Empirical Study of 5G: Effect of Edge on Transport Protocol and Application Performance&lt;/a&gt; &lt;br&gt;
+&lt;span style=&#39;font-variant:small-caps;&#39;&gt;Hyoyoung Lim, Jinsung Lee, Jongyun Lee, Sandesh Dhawaskar Sathyanarayana, Junseon Kim, Anh Nguyen, Kwang Taik Kim, Youngbin Im, Mung Chiang, Dirk Grunwald, Kyunghan Lee, Sangtae Ha &lt;/span&gt; &lt;br&gt;
+&lt;em&gt;IEEE Trans. Mobile Comput.&lt;/em&gt;, 2024&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://ieeexplore.ieee.org/document/10106478&#34;&gt;Multi-Edge Server-Assisted Dynamic Federated Learning with an Optimized Floating Aggregation Point&lt;/a&gt; &lt;br&gt;
+&lt;span style=&#39;font-variant:small-caps;&#39;&gt;Bhargav Ganguly, Seyyedali Hosseinalipour, Kwang Taik Kim, Christopher Brinton, Vaneet Aggarwal, David Love, Mung Chiang &lt;/span&gt; &lt;br&gt;
+&lt;em&gt;IEEE/ACM Trans. on Netw.&lt;/em&gt;, 2023&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://ieeexplore.ieee.org/document/10043808&#34;&gt;Successive Cancellation Integer Forcing via Practical Binary Codes&lt;/a&gt; &lt;br&gt;
+&lt;span style=&#39;font-variant:small-caps;&#39;&gt;Seok-Ki Ahn, Sungho Chae, Kwang Taik Kim, Young-Han Kim &lt;/span&gt; &lt;br&gt;
+&lt;em&gt;IEEE Trans. Wirel. Commun.&lt;/em&gt;, 2023&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://kimkt.com/publications/A_Novel_Framework_for_Cost_Constrained_Network_Sharing.pdf&#34;&gt;A Novel Framework for Cost Constrained Network Sharing&lt;/a&gt; &lt;br&gt;
+&lt;span style=&#39;font-variant:small-caps;&#39;&gt;Eric Ruzomberka, Kwang Taik Kim, Arnob Ghosh, David J. Love, Mung Chiang&lt;/span&gt; &lt;br&gt;
+&lt;em&gt;IEEE Trans. Mobile Comput.&lt;/em&gt;, 2023&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://ieeexplore.ieee.org/document/9996961&#34;&gt;DAG-based Task Orchestration for Edge Computing&lt;/a&gt; &lt;br&gt;
+&lt;span style=&#39;font-variant:small-caps;&#39;&gt;Xiang Li, Mustafa Abdallah, Shikhar Suryavansh, Mung Chiang, Kwang Taik Kim, Saurabh Bagchi &lt;/span&gt; &lt;br&gt;
+&lt;em&gt;SRDS&lt;/em&gt;, September 2022&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://arxiv.org/pdf/2112.11491.pdf&#34;&gt;Adversarial Deep Unfolding Network for Error Correcting Codes&lt;/a&gt; &lt;br&gt;
+&lt;span style=&#39;font-variant:small-caps;&#39;&gt;Hung T. Nguyen, Steven Bottone, Kwang Taik Kim, Mung Chiang, H. Vincent Poor&lt;/span&gt; &lt;br&gt;
+&lt;em&gt;IEEE GLOBECOM&lt;/em&gt;, December 2021&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://arxiv.org/pdf/2112.11485.pdf&#34;&gt;On-The-Fly Resource-Aware Model Aggregation for Federated Learning in Heterogeneous Edge&lt;/a&gt; &lt;br&gt;
+&lt;span style=&#39;font-variant:small-caps;&#39;&gt;Hung T. Nguyen, Roberto Morabito, Kwang Taik Kim, Mung Chiang &lt;/span&gt; &lt;br&gt;
+&lt;em&gt;IEEE GLOBECOM&lt;/em&gt;, December 2021&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://kimkt.com/publications/Minimizing_Age-of-Information_in_Heterogeneous_Multi-Channel_Systems.pdf&#34;&gt;Minimizing Age-Of-Information in Heterogeneous Multi-Channel Systems: a New Index Approach&lt;/a&gt; &lt;br&gt;
+&lt;span style=&#39;font-variant:small-caps;&#39;&gt;Yihan Zou, Kwang Taik Kim, Xiaojun Lin, Mung Chiang&lt;/span&gt; &lt;br&gt;
+&lt;em&gt;ACM MobiHoc&lt;/em&gt;, July 2021 &lt;br&gt;
+&lt;code&gt;Best Paper Award&lt;/code&gt;&lt;/p&gt;
+&lt;!-- **Best Paper Award** --&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://arxiv.org/pdf/2011.05925.pdf&#34;&gt;I-BOT: Interference Based Orchestration of Tasks for Dynamic Unmanaged Edge Computing&lt;/a&gt; &lt;br&gt;
+&lt;span style=&#39;font-variant:small-caps;&#39;&gt;Shikhar Suryavansh, Tanushree Gupta, Kwang Taik Kim, Chandan Bothra, Mung Chiang, Chunyi Peng, Saurabh Bagchi&lt;/span&gt; &lt;br&gt;
+&lt;em&gt;Arxiv&lt;/em&gt;, November 2020&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://kimkt.com/publications/Coded_Edge_Computing.pdf&#34;&gt;Coded Edge Computing&lt;/a&gt; &lt;br&gt;
+&lt;span style=&#39;font-variant:small-caps;&#39;&gt;Kwang Taik Kim, Carlee Joe-Wong, Mung Chiang,&lt;/span&gt; &lt;br&gt;
+&lt;em&gt;IEEE INFOCOM&lt;/em&gt;, July 2020&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://kimkt.com/publications/Low-Overhead_Joint_Beam-Selection_and_Random-Access_Schemes_for_Massive_Internet-of-Things_with_Non-Uniform_Channel_and_Load.pdf&#34;&gt;Low-Overhead Joint Beam-Selection and Random-Access Schemes for Massive Internet-of-Things with Non-Uniform Channel and Load&lt;/a&gt; &lt;br&gt;
+&lt;span style=&#39;font-variant:small-caps;&#39;&gt;Yihan Zou, Kwang Taik Kim, Xiaojun Lin, Mung Chiang, Zhi Ding, Risto Wichman, Jyri Hamalainen,&lt;/span&gt; &lt;br&gt;
+&lt;em&gt;IEEE INFOCOM&lt;/em&gt;, July 2020&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://kimkt.com/publications/Low-Overhead_Multi-Antenna-Enabled_Random_Access_for_Machine-Type_Communications_with_Low_Mobility.pdf&#34;&gt;Low-Overhead Multi-Antenna-Enabled Uplink Random Access for Machine-Type Communications with Low Mobility&lt;/a&gt; &lt;br&gt;
+&lt;span style=&#39;font-variant:small-caps;&#39;&gt;Yihan Zou, Kwang Taik Kim, Zhi Ding, Risto Wichman, Jyri Hamalainen, Xiaojun Lin, Mung Chiang&lt;/span&gt; &lt;br&gt;
+&lt;em&gt;IEEE GLOBECOM&lt;/em&gt;, December 2019&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://kimkt.com/publications/Distributed_DecodeForward_for_Relay_Networks.pdf&#34;&gt;Distributed Decode-Forward for Relay Networks&lt;/a&gt; &lt;br&gt;
+&lt;span style=&#39;font-variant:small-caps;&#39;&gt;Sung Hoon Lim, Kwang Taik Kim, Young-Han Kim&lt;/span&gt; &lt;br&gt;
+&lt;em&gt;IEEE Trans. Inf. Theory&lt;/em&gt;, July 2017&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://kimkt.com/publications/Interference_Management_via_Sliding-Window_Coded_Modulation_for_5G_Cellular_Networks.pdf&#34;&gt;Interference Management via Sliding-Window Coded Modulation for 5G Cellular Networks&lt;/a&gt; &lt;br&gt;
+&lt;span style=&#39;font-variant:small-caps;&#39;&gt;Kwang Taik Kim, Seok-Ki Ahn, Yong-Seok Kim, Jeongho Park, Chiao-Yi Chen, Young-Han Kim&lt;/span&gt; &lt;br&gt;
+&lt;em&gt;IEEE Commun. Mag.&lt;/em&gt;, November 2016&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://kimkt.com/publications/Interference_Management_via_Sliding-Window_Coded_Modulation_for_5G_Cellular_Networks.pdf&#34;&gt;Advanced Interference Management via Sliding-Window Superposition Coding for 5G Cellular Networks&lt;/a&gt; &lt;br&gt;
+&lt;span style=&#39;font-variant:small-caps;&#39;&gt;Kwang Taik Kim, Seok-Ki Ahn, Yong-Seok Kim, Chiwoo Lim, Jeongho Park&lt;/span&gt; &lt;br&gt;
+&lt;em&gt;Global Samsung Tech. Conf.&lt;/em&gt;, November 2016 &lt;br&gt;
+&lt;code&gt;Best Paper Award (Gold Prize) with Communication and Network Division&lt;/code&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://kimkt.com/publications/globecom2015.pdf&#34;&gt;Adaptive Sliding-Window Coded Modulation in Cellular Networks&lt;/a&gt; &lt;br&gt;
+&lt;span style=&#39;font-variant:small-caps;&#39;&gt;Kwang Taik Kim, Seok-Ki Ahn, Young-Han Kim, Hosung Park, Lele Wang, Chiao-Yi Chen, Jeongho Park&lt;/span&gt; &lt;br&gt;
+&lt;em&gt;IEEE GLOBECOM&lt;/em&gt;, December 2015&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://kimkt.com/publications/Distributed_decode-forward_for_broadcast.pdf&#34;&gt;Distributed Decode-Forward for Broadcast&lt;/a&gt;&lt;br&gt;
+&lt;span style=&#39;font-variant:small-caps;&#39;&gt;Sung Hoon Lim, Kwang Taik Kim, Young-Han Kim&lt;/span&gt; &lt;br&gt;
+&lt;em&gt;IEEE Inf. Theory Works.&lt;/em&gt;, November 2014&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://kimkt.com/publications/Distributed_decode-forward_for_multicast.pdf&#34;&gt;Distributed Decode-Forward for Multicast&lt;/a&gt; &lt;br&gt;
+&lt;span style=&#39;font-variant:small-caps;&#39;&gt;Sung Hoon Lim, Kwang Taik Kim, Young-Han Kim&lt;/span&gt; &lt;br&gt;
+&lt;em&gt;IEEE Int. Symp. Inf. Theory&lt;/em&gt;, July 2014&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://kimkt.com/publications/Matrix_network_coding_based_multicast_scheme_over_wireless_multihop_networks.pdf&#34;&gt;Matrix Network Coding Based Multicast Scheme over Wireless Multihop Networks&lt;/a&gt; &lt;br&gt;
+&lt;span style=&#39;font-variant:small-caps;&#39;&gt;Kwanghun Han, Misuk Huh, Kwang Taik Kim, Kyunghun Jang &lt;/span&gt; &lt;br&gt;
+&lt;em&gt;IEEE ICCE&lt;/em&gt;, January 2014&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://kimkt.com/publications/Robust_scalable_physical_layer_network_coding.pdf&#34;&gt;Robust Scalable Physical Layer Network Coding&lt;/a&gt; &lt;br&gt;
+&lt;span style=&#39;font-variant:small-caps;&#39;&gt;Kwang Taik Kim, Wonjong Noh, Vahid Tarokh&lt;/span&gt; &lt;br&gt;
+&lt;em&gt;Allerton&lt;/em&gt;, September 2011&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://kimkt.com/publications/Network_error_correction_from_matrix_network_coding.pdf&#34;&gt;Network Error Correction from Matrix Network Coding&lt;/a&gt; &lt;br&gt;
+&lt;span style=&#39;font-variant:small-caps;&#39;&gt;Kwang Taik Kim, Chan-Soo Hwang, Vahid Tarokh&lt;/span&gt; &lt;br&gt;
+&lt;em&gt;Inf. Theory and App. Works.&lt;/em&gt;, February 2011&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://kimkt.com/publications/Network_Resources_Optimization_for_Random_Linear_Network_Coding.pdf&#34;&gt;Network Resources Optimization for Random Linear Network Coding&lt;/a&gt; &lt;br&gt;
+&lt;span style=&#39;font-variant:small-caps;&#39;&gt;Kwang Taik Kim, Chan-Soo Hwang&lt;/span&gt; &lt;br&gt;
+&lt;em&gt;IEEE Int. Conf. on Commun.&lt;/em&gt;, May 2010&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://kimkt.com/publications/The_Degree_of_Suboptimality_of_Sending_a_Lossy_Version_of_the_Innovations_Process_in_Gauss-Markov_Rate-Distortion.pdf&#34;&gt;The Degree of Suboptimality of Sending a Lossy Version of the Innovations Process in Gauss-Markov Rate-Distortion&lt;/a&gt; &lt;br&gt;
+&lt;span style=&#39;font-variant:small-caps;&#39;&gt;Kwang Taik Kim, Toby Berger&lt;/span&gt; &lt;br&gt;
+&lt;em&gt;IEEE Int. Symp. Inf. Theory&lt;/em&gt;, July 2006&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;&#34;&gt;Sending a Lossy Version of the Innovations Process is Suboptimal in Non-Gaussian Rate-Distortion&lt;/a&gt; &lt;br&gt;
+&lt;span style=&#39;font-variant:small-caps;&#39;&gt;Kwang Taik Kim, Toby Berger&lt;/span&gt; &lt;br&gt;
+&lt;em&gt;Allerton&lt;/em&gt;, September 2005&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://kimkt.com/publications/Sending_a_lossy_version_of_the_innovations_process_is_suboptimal_in_QG_rate-distortion.pdf&#34;&gt;Sending a Lossy Version of the Innovations Process is Suboptimal in QG Rate-Distortion&lt;/a&gt; &lt;br&gt;
+&lt;span style=&#39;font-variant:small-caps;&#39;&gt;Kwang Taik Kim, Toby Berger&lt;/span&gt; &lt;br&gt;
+&lt;em&gt;IEEE Int. Symp. Inf. Theory&lt;/em&gt;, September 2005&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;books&#34;&gt;Book Chapters&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;i&gt;&lt;a href=&#39;https://www.wiley.com/en-us/5G+System+Design:+Architectural+and+Functional+Considerations+and+Long+Term+Research-p-9781119425120&#39;&gt;5G System Design – Architectural and Functional Considerations and Long Term Research&lt;/a&gt;&lt;/i&gt; Chapter 12 - Traffic Steering and Resource Management. In: (eds. Patrick Marsch, Ömer Bulakci, Olav Queseth, Mauro Boldi) &lt;br&gt;
+&lt;span style=&#39;font-variant:small-caps;&#39;&gt;Ömer Bulakci, Klaus Pedersen, David Gutierrez Estevez, Athul Prasad, Fernando Sanchez Moya, Jan Christoffersson, Yang Yang, Emmanouil Pateromichelakis, Paul Arnold, Tommy Svensson, Tao Chen, Honglei Miao, Martin Kurras, Samer Bazzi, Stavroula Vassaki, Evangelos Kosmatos, &lt;u style=&#39;font-weight:700;color:#414141;&#39;&gt;Kwang Taik Kim&lt;/u&gt;, Giorgio Calochira, Jakob Belschner, Sergio Baarberis, and Taylan Sahin&lt;/span&gt; (2018) &lt;br&gt;
+Wiley, New York, June 2018, 608 Pages, ISBN: 978-1-119-42512-0.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;patents&#34;&gt;Granted Patents&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;&#34;&gt;Method and apparatus for advanced integer-forcing MIMO receivers&lt;/a&gt; &lt;br&gt;
+&lt;span style=&#39;font-variant:small-caps;&#39;&gt; Sung Ho Chae, Seok-Ki Ahn, Kwang Taik Kim, Young-Han Kim&lt;/span&gt; &lt;br&gt;
+KR Patent 1020180091503 A, Issued: October 19, 2023&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;&#34;&gt;Method and apparatus for non-orthogonal multiple access under cellular network environments&lt;/a&gt; &lt;br&gt;
+&lt;span style=&#39;font-variant:small-caps;&#39;&gt; Sung Nam Hong, Seok-Ki Ahn, Kwang Taik Kim, Ji Yun Seol, Chi Woo Lim, Tae Young Kim&lt;/span&gt; &lt;br&gt;
+KR Patent 1020180007729 A, Issued: July 26, 2023&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;&#34;&gt;Method and apparatus for generation, feedback, and utilization of CQI for sliding-window superposition coding&lt;/a&gt; &lt;br&gt;
+&lt;span style=&#39;font-variant:small-caps;&#39;&gt; Seok-Ki Ahn, Kwang Taik Kim, Yong Seok Kim, Chi Woo Lim&lt;/span&gt; &lt;br&gt;
+KR Patent 1020180054150 A, Issued: July 3, 2023&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;&#34;&gt;A method and apparatus of sliding-window superposition coding for multi-antenna cellular networks&lt;/a&gt; &lt;br&gt;
+&lt;span style=&#39;font-variant:small-caps;&#39;&gt; Kwang Taik Kim, Young-Han Kim, Seok-Ki Ahn, Chiao Yi Chen&lt;/span&gt; &lt;br&gt;
+KR Patent 1020170089391 A, Issued: February 14, 2023&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;&#34;&gt;Signaling method and device for sliding window superposition coding transmission in wireless communication system&lt;/a&gt; &lt;br&gt;
+&lt;span style=&#39;font-variant:small-caps;&#39;&gt; Chi Woo Lim, Seok Ki Ahn, Kwang Taik Kim&lt;/span&gt; &lt;br&gt;
+KR Patent KR1020180007465 A, Issued: January 16, 2023&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://uspto.report/patent/app/20210105806&#34;&gt;Apparatus and method of low complexity enhanced scheduling for sliding-window coded modulation&lt;/a&gt; &lt;br&gt;
+&lt;span style=&#39;font-variant:small-caps;&#39;&gt; Seok-Ki Ahn, Kwang Taik Kim, Young-Han Kim&lt;/span&gt; &lt;br&gt;
+US Patent US11,540,308B2, Issued: December 27, 2022&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://doi.org/10.8080/1020150043476?urlappend=en&#34;&gt;Apparatus and method for transmitting signal using sliding-window superposition coding in a wireless network&lt;/a&gt; &lt;br&gt;
+&lt;span style=&#39;font-variant:small-caps;&#39;&gt; Kwang Taik Kim, Seok-Ki Ahn, Young-Han Kim, Hosung Park, Lele Wang, Chiao-Yi Chen, Jeongho Park&lt;/span&gt; &lt;br&gt;
+KR Patent KR1024256560000, Issued: July 28, 2022&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://doi.org/10.8080/1020150108267?urlappend=en&#34;&gt;A method and apparatus for supporting low-rate coding based on turbo codes&lt;/a&gt; &lt;br&gt;
+&lt;span style=&#39;font-variant:small-caps;&#39;&gt; Jaeyeol Kim, Seok-Ki Ahn, Chiwoo Lim, Min Jang, Kwang Taik Kim, Woomyung Park&lt;/span&gt; &lt;br&gt;
+KR Patent KR1024222750000, Issued: July 18, 2022&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://doi.org/10.8080/1020150036653?urlappend=en&#34;&gt;Method and apparatus for transmitting and receiving signals in wireless communications systems&lt;/a&gt; &lt;br&gt;
+&lt;span style=&#39;font-variant:small-caps;&#39;&gt;Kwang Taik Kim, Seok-Ki Ahn, Jeongho Park, Chiwoo Lim, Jaewon Cho&lt;/span&gt; &lt;br&gt;
+KR Patent KR1023355540000, Issued: December 1, 2021&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://doi.org/10.8080/1020150113416?urlappend=en&#34;&gt;A Method and Apparatus for Controlling an Interference in a Communication System Using a Plurality of Antennas&lt;/a&gt; &lt;br&gt;
+&lt;span style=&#39;font-variant:small-caps;&#39;&gt;Myungseok Kang, Wan Choi, Kwang Taik Kim, Hyowoon Seo, Kyeongrak Sohn&lt;/span&gt; &lt;br&gt;
+KR Patent KR1023068850000, Issued: September 23, 2021&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://doi.org/10.8080/1020130140580?urlappend=en&#34;&gt;Method and Apparatus for Communication&lt;/a&gt; &lt;br&gt;
+&lt;span style=&#39;font-variant:small-caps;&#39;&gt;Jaehoon Kim, Kwang Taik Kim, Dojun Byun, Kyunghun Jang, Myeongwuk Jang, Kwanghun Han &lt;/span&gt; &lt;br&gt;
+KR Patent KR1022356710000, Issued: March 29, 2021&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://doi.org/10.8080/1020140077343?urlappend=en&#34;&gt;Method and Apparatus for Relaying in Multicast Network&lt;/a&gt; &lt;br&gt;
+&lt;span style=&#39;font-variant:small-caps;&#39;&gt;Kwanghun Han, Sunghyun Choi, Yeonchul Shin, Kyujin Lee, Kwang Taik Kim, Kyunghun Jang, Jonghee Koo, Seungkyu Baek&lt;/span&gt; &lt;br&gt;
+KR Patent KR1022333710000, Issued: March 23, 2021&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://doi.org/10.8080/1020140015719?urlappend=en&#34;&gt;System and Method for Ensuring The Reliability in Multiple Multicast Network&lt;/a&gt; &lt;br&gt;
+&lt;span style=&#39;font-variant:small-caps;&#39;&gt;Sung Hoon Lim, Kwang Taik Kim, Kwanghun Han&lt;/span&gt; &lt;br&gt;
+KR Patent KR10-21608180000, Issued: September 22, 2020&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://patentimages.storage.googleapis.com/21/37/15/75c9fdcd1ce9e0/US10778284.pdf&#34;&gt;A Method and Apparatus for Controlling an Interference In a Communication System Using a Plurality of Antennas&lt;/a&gt; &lt;br&gt;
+&lt;span style=&#39;font-variant:small-caps;&#39;&gt;Kwang Taik Kim, Wan Choi, Myung-Gil Kang, Hyo-woon Seo, Kyeong-rak Sohn&lt;/span&gt; &lt;br&gt;
+US Patent US10,778,284B2, Issued: September 15, 2020&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;&#34;&gt;Method and Apparatus for Relaying in Multicast Network&lt;/a&gt; &lt;br&gt;
+&lt;span style=&#39;font-variant:small-caps;&#39;&gt;Kwanghun Han, Sunghyun Choi, Yeonchul Shin, Kyujin Lee, Kwang Taik Kim, Kyunghun Jang, Jonghee Koo, Seungkyu Baek&lt;/span&gt; &lt;br&gt;
+CN Patent CN105,306,370B, Issued: May 12, 2020&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://doi.org/10.8080/1020140005359?urlappend=en&#34;&gt;Method and Apparatus for Forwarding Signal for Wireless Multi-Hop Communication&lt;/a&gt; &lt;br&gt;
+&lt;span style=&#39;font-variant:small-caps;&#39;&gt;Sung Hoon Lim, Kwang Taik Kim, Young-Han Kim&lt;/span&gt; &lt;br&gt;
+KR Patent KR10-20954930000 Issued: March 25, 2020&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://patentimages.storage.googleapis.com/bb/9e/84/d11f6c2495f34b/US10498432.pdf&#34;&gt;Method and apparatus for decoding signal in wireless communication system&lt;/a&gt; &lt;br&gt;
+&lt;span style=&#39;font-variant:small-caps;&#39;&gt;Kwang Taik Kim, Sung Hoon Lim&lt;/span&gt; &lt;br&gt;
+US Patent US10,498,432, Issued: December 3, 2019&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://doi.org/10.8080/1020130014858?urlappend=en&#34;&gt;Cooperative Communication System, Transmitter, Relay and Receiver Based on Network Compress-and-Forward&lt;/a&gt; &lt;br&gt;
+&lt;span style=&#39;font-variant:small-caps;&#39;&gt;Kwang Taik Kim, Sung Hoon Lim, Kyunghun Jang&lt;/span&gt; &lt;br&gt;
+KR Patent KR10-20515270000, Issued: November 27, 2019&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://patentimages.storage.googleapis.com/73/3d/15/92c60726122d25/US10454535.pdf&#34;&gt;Apparatus and Method for Receiving Signal in Wireless Communication System&lt;/a&gt; &lt;br&gt;
+&lt;span style=&#39;font-variant:small-caps;&#39;&gt;Seok-Ki Ahn, Sungho Chae, Kwang Taik Kim, Young-Han Kim&lt;/span&gt; &lt;br&gt;
+US Patent US10,454,535, Issued: October 22, 2019&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://patentimages.storage.googleapis.com/de/87/85/e4a2cc3baa8de1/US10425201.pdf&#34;&gt;Apparatus and Method for Transmitting and Receiving Signal in Wireless Communication System&lt;/a&gt; &lt;br&gt;
+&lt;span style=&#39;font-variant:small-caps;&#39;&gt;Kwang Taik Kim, Young-Han Kim, Seok-Ki Ahn, Chiao-Yi Chen,&lt;/span&gt; &lt;br&gt;
+US Patent US10,425,201, Issued: September 24, 2019.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;&#34;&gt;Communication Method and Apparatus&lt;/a&gt; &lt;br&gt;
+&lt;span style=&#39;font-variant:small-caps;&#39;&gt;Jaehoon Kim, Kwang Taik Kim, Dojun Byun, Kyunghun Jang, Myeongwuk Jang, Kwanghun Han&lt;/span&gt; &lt;br&gt;
+CN Patent CN104,660,381B, Issued: August 13, 2019&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://patentimages.storage.googleapis.com/a5/86/a7/11ee4d58d63ae8/US10375715.pdf&#34;&gt;Electronic Device and Method for Scheduling&lt;/a&gt; &lt;br&gt;
+&lt;span style=&#39;font-variant:small-caps;&#39;&gt;Seok-Ki Ahn, Kwang Taik Kim, Young-Han Kim, Yong-Seok Kim, Chiwoo Lim,&lt;/span&gt; &lt;br&gt;
+US Patent 10,375,715, Issued: August 6, 2019&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;&#34;&gt;Transmitter, Relay, Receiver, and Cooperative Communication System using Network Compress-And-Forward Scheme&lt;/a&gt; &lt;br&gt;
+&lt;span style=&#39;font-variant:small-caps;&#39;&gt;Kwang Taik Kim, Sung Hoon Lim, Kyunghun Jang&lt;/span&gt;&lt;br&gt;
+CN Patent CN103,986,510B, Issued: July 5, 2019&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;&#34;&gt;Multiple Multicast Network System and Method for Ensuring Reliability&lt;/a&gt; &lt;br&gt;
+&lt;span style=&#39;font-variant:small-caps;&#39;&gt;Sung Hoon Lim, Kwang Taik Kim, Kwanghun Han&lt;/span&gt; &lt;br&gt;
+CN Patent CN104,836,674B, Issued: June 18, 2019&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://patentimages.storage.googleapis.com/b7/47/16/4ddab3b3e6323c/US10182429.pdf&#34;&gt;Method and Device for Transmitting and Receiving Signal in Wireless Communication System&lt;/a&gt; &lt;br&gt;
+&lt;span style=&#39;font-variant:small-caps;&#39;&gt;Kwang Taik Kim, Seok-Ki Ahn, Jeongho Park, Chiwoo Lim, Jaewon Cho&lt;/span&gt; &lt;br&gt;
+US Patent US10,182,429, Issued: January 15, 2019&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;&#34;&gt;Method and Apparatus for Relaying in Multicast Network&lt;/a&gt;
+&lt;span style=&#39;font-variant:small-caps;&#39;&gt;Kwanghun Han, Sunghyun Choi, Yeonchul Shin, Kyujin Lee, Kwang Taik Kim, Kyunghun Jang, Jonghee Koo, Seungkyu Baek&lt;/span&gt; &lt;br&gt;
+EP Patent EP10,129,139, Issued: November 13, 2018&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://patentimages.storage.googleapis.com/bb/5c/46/aafe2119ca64fb/US10129139.pdf&#34;&gt;Method and Apparatus for Relaying in Multicast Network&lt;/a&gt; &lt;br&gt;
+&lt;span style=&#39;font-variant:small-caps;&#39;&gt;Kwanghun Han, Sunghyun Choi, Yeonchul Shin, Kyujin Lee, Kwang Taik Kim, Kyunghun Jang, Jonghee Koo, Seungkyu Baek&lt;/span&gt; &lt;br&gt;
+US Patent US1,0129,139, Issued: November 13, 2018&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://patentimages.storage.googleapis.com/c7/e5/4d/bc2acdc8017372/US9826459.pdf&#34;&gt;Method and Apparatus for Forwarding Signal for Wireless Multi-hop Communication&lt;/a&gt; &lt;br&gt;
+&lt;span style=&#39;font-variant:small-caps;&#39;&gt;Sung Hoon Lim, Kwang Taik Kim, Young-Han Kim&lt;/span&gt; &lt;br&gt;
+US Patent US9,826,459, Issued: November 21, 2017&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://doi.org/10.8080/1020110084649?urlappend=en&#34;&gt;Wireless Network of Using Network Coding and Method of Adaptively Adjusting Buffering Time in the Wireless Network&lt;/a&gt; &lt;br&gt;
+&lt;span style=&#39;font-variant:small-caps;&#39;&gt;Jae Hyun Kim, Sung Hyun Cho, Kwang Taik Kim, Wonjong Noh&lt;/span&gt; &lt;br&gt;
+KR Patent KR10-18011510000, Issued: November 20, 2017&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://patentimages.storage.googleapis.com/76/eb/82/f10d77cd439c13/US9800425.pdf&#34;&gt;Multiple Multicast Network System and Method for Ensuring Reliability&lt;/a&gt; &lt;br&gt;
+&lt;span style=&#39;font-variant:small-caps;&#39;&gt;Sung Hoon Lim, Kwang Taik Kim, Kwanghun Han&lt;/span&gt; &lt;br&gt;
+US Patent US9,800,425, Issued: October 24, 2017&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://patentimages.storage.googleapis.com/19/4a/cc/ca61f1dc1dc39d/US9774381.pdf&#34;&gt;Transmitter, Relay, Receiver, and Cooperative Communication System using Network Compress-and-Forward Scheme&lt;/a&gt; &lt;br&gt;
+&lt;span style=&#39;font-variant:small-caps;&#39;&gt;Kwang Taik Kim, Sung Hoon Lim, Kyunghun Jang&lt;/span&gt; &lt;br&gt;
+US Patent US9,774,381, Issued: September 26, 2017&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://patentimages.storage.googleapis.com/33/50/3c/fe52bfd8fe4b3b/US9699008.pdf&#34;&gt;Method and Apparatus for Transmitting Signal using Sliding-Window Superposition Coding in a Wireless Network&lt;/a&gt; &lt;br&gt;
+&lt;span style=&#39;font-variant:small-caps;&#39;&gt;Kwang Taik Kim, Seok-Ki Ahn, Young-Han Kim, Hosung Park, Lele Wang, Chiao-Yi Chen, Jeongho Park&lt;/span&gt; &lt;br&gt;
+US Patent US9,699,008, Issued: July 4, 2017&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://doi.org/10.8080/1020100055420?urlappend=en&#34;&gt;Apparatus and Method using Matrix Network Coding&lt;/a&gt; &lt;br&gt;
+&lt;span style=&#39;font-variant:small-caps;&#39;&gt;Kwang Taik Kim, Chan-Soo Hwang, Vahid Tarokh&lt;/span&gt; &lt;br&gt;
+KR Patent KR10-1751497, Issued: June 21, 2017&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://patentimages.storage.googleapis.com/43/b4/ab/96373842541475/US9516661.pdf&#34;&gt;Method and Apparatus for Scheduling Resources at Relay Station in Mobile Communication Network&lt;/a&gt; &lt;br&gt;
+&lt;span style=&#39;font-variant:small-caps;&#39;&gt;Mahmoud Hadef, Jim O&amp;rsquo;Reilly, Kwang Taik Kim, Kyunghun Jang&lt;/span&gt; &lt;br&gt;
+US Patent US9,516,661, Issued: December 6, 2016&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;&#34;&gt;Method and Apparatus for Scheduling Resources at Relay Station in Mobile Communication Network&lt;/a&gt; &lt;br&gt;
+&lt;span style=&#39;font-variant:small-caps;&#39;&gt;Mahmoud Hadef, Jim O&amp;rsquo;Reilly, Kwang Taik Kim, Kyunghun Jang&lt;/span&gt; &lt;br&gt;
+EP Patent EP2,835,927, Issued: November 30, 2016&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://doi.org/10.8080/1020090089497?urlappend=en&#34;&gt;Network Coding Method using Shared Seed and Device Enabling the Method&lt;/a&gt;
+&lt;span style=&#39;font-variant:small-caps;&#39;&gt;Chan-Soo Hwang, Kwang Taik Kim&amp;laquo;span&amp;gt; &lt;br&gt;
+KR Patent KR10-1646615, Issued: August 2, 2016&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://patentimages.storage.googleapis.com/be/44/aa/cfd5ae93e5d429/US9191156.pdf&#34;&gt;Apparatus and Method using Matrix Network Coding&lt;/a&gt; &lt;br&gt;
+&lt;span style=&#39;font-variant:small-caps;&#39;&gt;Kwang Taik Kim, Chan-Soo Hwang, Vahid Tarokh&lt;/span&gt; &lt;br&gt;
+US Patent US9,191,156, Issued: November 17, 2015&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://patentimages.storage.googleapis.com/0e/4f/d9/48258b38841698/US9071406.pdf&#34;&gt;Apparatus and Method using Matrix Network Coding&lt;/a&gt; &lt;br&gt;
+&lt;span style=&#39;font-variant:small-caps;&#39;&gt;Kwang Taik Kim, Chan-Soo Hwang, Vahid Tarokh&lt;/span&gt; &lt;br&gt;
+US Patent US9,071,406, Issued: June 30, 2015&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://patentimages.storage.googleapis.com/f8/fc/34/8471dc08130e02/US9048997.pdf&#34;&gt;Apparatus and Method using Matrix Network Coding&lt;/a&gt; &lt;br&gt;
+&lt;span style=&#39;font-variant:small-caps;&#39;&gt;Kwang Taik Kim, Chan-Soo Hwang, Vahid Tarokh&lt;/span&gt; &lt;br&gt;
+US Patent US9,048,997, Issued: June 2, 2015&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://patentimages.storage.googleapis.com/88/70/7b/645d3a61ecff4d/US8995501.pdf&#34;&gt;Method and Apparatus of Physical Layer Network Coding&lt;/a&gt; &lt;br&gt;
+&lt;span style=&#39;font-variant:small-caps;&#39;&gt;Kwang Taik Kim, Vahid Tarokh&lt;/span&gt; &lt;br&gt;
+US Patent US8,995,501B2, Issued: March 31, 2015&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://doi.org/10.8080/1020080136661?urlappend=en&#34;&gt;Wireless Network using Network Coding based on Random Codes&lt;/a&gt; &lt;br&gt;
+&lt;span style=&#39;font-variant:small-caps;&#39;&gt;Chan-Soo Hwang, Kwang Taik Kim&lt;/span&gt; &lt;br&gt;
+KR Patent KR10-1499454, Issued: March 2, 2015&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://patentimages.storage.googleapis.com/cb/7d/1c/9d565ae35cdeb9/US8942273.pdf&#34;&gt;Communication Method of Relay Node using Non-Linear Hybrid Network Coding and Device using Said Method&lt;/a&gt; &lt;br&gt;
+&lt;span style=&#39;font-variant:small-caps;&#39;&gt;Kwang Taik Kim, Vahid Tarokh&lt;/span&gt; &lt;br&gt;
+US Patent US8,942,273, Issued: January 27, 2015&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://patentimages.storage.googleapis.com/ab/2d/02/b224dc32a31be3/US8942257.pdf&#34;&gt;Wireless Network using Feedback of Side Information and Communication Method using Network Coding&lt;/a&gt; &lt;br&gt;
+&lt;span style=&#39;font-variant:small-caps;&#39;&gt;Kwang Taik Kim, Chan-Soo Hwang, Vahid Tarokh&lt;/span&gt; &lt;br&gt;
+US Patent US8,942,257, Issued: January 27, 2015&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://patentimages.storage.googleapis.com/e2/93/84/11d3f999b9ca6a/US8917666.pdf&#34;&gt;Wireless Network of using Network Coding and Method of Adaptively Adjusting Buffering Time in the Wireless Network&lt;/a&gt; &lt;br&gt;
+&lt;span style=&#39;font-variant:small-caps;&#39;&gt;Jae Hyun Kim, Sung Hyun Cho, Kwang Taik Kim, Wonjong Noh&lt;/span&gt; &lt;br&gt;
+US Patent US8,917,666, Issued: December 23, 2014&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://patentimages.storage.googleapis.com/82/af/34/065b8f8c0104df/US8612833.pdf&#34;&gt;Apparatus and Method using Matrix Network Coding&lt;/a&gt; &lt;br&gt;
+&lt;span style=&#39;font-variant:small-caps;&#39;&gt;Kwang Taik Kim, Chan-Soo Hwang, Vahid Tarokh&lt;/span&gt; &lt;br&gt;
+US Patent US8,612,833, Issued: December 17, 2013&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://kimkt.com/top/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kimkt.com/top/research/</guid>
+      <description>&lt;h3 id=&#34;overview-of-research-projects&#34;&gt;Overview of Research Projects&lt;/h3&gt;
+&lt;p&gt;My research interests are in real-time platform architectures and experimentation in 5G and Next G wireless systems.&lt;/p&gt;
+&lt;p&gt;One of major challenges that we see is that there is a gap between theory and practice.
+So, the goal of most of my research is to provide feasibility studies for state-of-the-art theoretical advances in wireless communications.&lt;/p&gt;
+&lt;h5 id=&#34;content&#34;&gt;Content&lt;/h5&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#architecture&#34;&gt;5G/NextG Ajar/Open Architecture&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#edge&#34;&gt;Open Edge Platform&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#networking&#34;&gt;Real-Time Wireless Networking Protocols&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#communications&#34;&gt;Digital Communications&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://kimkt.com/top/teaching/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kimkt.com/top/teaching/</guid>
+      <description>&lt;h2 id=&#34;teaching&#34;&gt;Teaching&lt;/h2&gt;
+&lt;ul style=&#34;font-size:16px;&#34;&gt;
+  &lt;li style=&#34;color:#282828;font-style:italic;&#34;&gt;&lt;b&gt;ECE 54300 Digital Communications&lt;/b&gt; &lt;/li&gt;
+  &lt;!-- &lt;li style=&#34;color:#282828;font-style:italic;&#34;&gt;&lt;b&gt;ECE 64200 Information Theory and Source Coding&lt;/b&gt; &lt;/li&gt; --&gt;
+  &lt;li style=&#34;color:#282828;font-style:italic;&#34;&gt;&lt;b&gt;ECE 44000 Transmission of Information&lt;/b&gt; &lt;/li&gt;
+  &lt;li style=&#34;color:#282828;font-style:italic;&#34;&gt;&lt;b&gt;ECE 69500 Stochastic Processes in Information Systems&lt;/b&gt; &lt;/li&gt;
+  &lt;li style=&#34;color:#282828;font-style:italic;&#34;&gt;&lt;b&gt;ECE 30100 Signals and Systems&lt;/b&gt; &lt;/li&gt;
+  &lt;li style=&#34;color:#282828;font-style:italic;&#34;&gt;&lt;b&gt;ECE 20001 Electrical Engineering Fundamentals I&lt;/b&gt; &lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://kimkt.com/top/team/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kimkt.com/top/team/</guid>
+      <description>&lt;h2 id=&#34;team&#34;&gt;Core Team: Members&lt;/h2&gt;
+&lt;style&gt;
+  li:not(:last-child) {
+    margin-bottom: 3px;
+  }
+&lt;/style&gt;
+&lt;!-- #### Postdocs {#postdoc}
+
+&lt;br&gt; --&gt;
+&lt;h4 id=&#34;faculty&#34;&gt;Faculty&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&#34;https://kimkt.com&#34;&gt;&lt;b&gt;Prof. Kwang Taik Kim&lt;/b&gt;&lt;/a&gt; | Email: &lt;a href=&#34;mailto:kimkt@purdue.edu&#34;&gt;&lt;a href=&#34;mailto:kimkt@purdue.edu&#34;&gt;kimkt@purdue.edu&lt;/a&gt;&lt;/a&gt; &lt;br&gt;
+Research Assistant Professor of Elmore Family School of Electrical and Computer Engineering &lt;br&gt;
+Director of KTK Lab&lt;/p&gt;
+&lt;br&gt;
+&lt;h4 id=&#34;phd&#34;&gt;Ph.D. Students&lt;/h4&gt;
+&lt;!-- &lt;img src=&#34;https://kimkt.com/img/about/mikelou.png&#34; style=&#34;height: 25%; width: 25%; object-fit: contain; float: left&#34;/&gt; --&gt;
+&lt;p&gt;&lt;a href=&#34;https://yylou.github.io&#34;&gt;&lt;b&gt;Yuan-Yao Mike Lou&lt;/b&gt;&lt;/a&gt; | Email: &lt;a href=&#34;mailto:yylou@purdue.edu&#34;&gt;&lt;a href=&#34;mailto:yylou@purdue.edu&#34;&gt;yylou@purdue.edu&lt;/a&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;!-- is a Ph.D. student in Elmore Family School of Electrical and Computer Engineering at Purdue University. His research interests span edge computing, 5G/NextG networks and systems, IoT, software-defined network, network function virtualization, deep learning, and reinforcement learning. In his current work, he aims to design the containerized (Kubernetes-based) architecture  of the open edge platform in 5G/NextG networks, service function chaining to improve network programmability, and AI/ML to enable automatic orchestration. --&gt;
+&lt;!-- &lt;a href=&#34;mailto:yylou@purdue.edu&#34;&gt;yylou@purdue.edu&lt;/a&gt; --&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.linkedin.com/in/justin-nagovskiy-b544781b7&#34;&gt;&lt;b&gt;Justin Nagovskiy&lt;/b&gt;&lt;/a&gt; | Email: &lt;a href=&#34;mailto:jnagovsk@purdue.edu&#34;&gt;&lt;a href=&#34;mailto:jnagovsk@purdue.edu&#34;&gt;jnagovsk@purdue.edu&lt;/a&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://scholar.google.com/citations?user=fBL3iMkAAAAJ&amp;amp;hl=en&#34;&gt;&lt;b&gt;Aravind Muraleedharan&lt;/b&gt;&lt;/a&gt; | Email: &lt;a href=&#34;mailto:amuralee@purdue.edu&#34;&gt;&lt;a href=&#34;mailto:amuralee@purdue.edu&#34;&gt;amuralee@purdue.edu&lt;/a&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.linkedin.com/in/shengli-ding&#34;&gt;&lt;b&gt;Shengli Ding&lt;/b&gt;&lt;/a&gt; | Email: &lt;a href=&#34;mailto:ding393@purdue.edu&#34;&gt;&lt;a href=&#34;mailto:ding393@purdue.edu&#34;&gt;ding393@purdue.edu&lt;/a&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;&#34;&gt;&lt;b&gt;Huan-Chia Hsu&lt;/b&gt;&lt;/a&gt; | Email: &lt;a href=&#34;mailto:hsu426@purdue.edu&#34;&gt;&lt;a href=&#34;mailto:hsu426@purdue.edu&#34;&gt;hsu426@purdue.edu&lt;/a&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;!-- [&lt;b&gt;Cheng Chen&lt;/b&gt;](https://github.com/ChengChen2020) | Email: &lt;a href=&#34;mailto:chen4384@purdue.edu&#34;&gt;chen4384@purdue.edu&lt;/a&gt; --&gt;
+&lt;!-- [&lt;b&gt;Rittwik Sood&lt;/b&gt;](https://in.linkedin.com/in/rittwik-sood?original_referer=https%3A%2F%2Fwww.google.com%2F) | Email: &lt;a href=&#34;mailto:sood26@purdue.edu&#34;&gt;sood26@purdue.edu&lt;/a&gt; --&gt;
+&lt;br&gt;
+&lt;h4 id=&#34;ms&#34;&gt;M.S. Students&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.linkedin.com/in/basil-khwaja&#34;&gt;&lt;b&gt;Basil Khwaja&lt;/b&gt;&lt;/a&gt; | Email: &lt;a href=&#34;mailto:bkhwaja@purdue.edu&#34;&gt;&lt;a href=&#34;mailto:bkhwaja@purdue.edu&#34;&gt;bkhwaja@purdue.edu&lt;/a&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;br&gt;
+&lt;h4 id=&#34;undergradaute&#34;&gt;Undergraduate Students&lt;/h4&gt;
+&lt;!-- [&lt;b&gt;Yu-Hsien Liu&lt;/b&gt;](https://www.linkedin.com/in/yu-hsien-liu) | Email: &lt;a href=&#34;mailto:liu4178@purdue.edu&#34;&gt;liu4178@purdue.edu&lt;/a&gt; --&gt;
+&lt;!-- [&lt;b&gt;Francis Ozua&lt;/b&gt;](https://www.linkedin.com/in/francis-ozua) | Email: &lt;a href=&#34;mailto:fozua@purdue.edu&#34;&gt;fozua@purdue.edu&lt;/a&gt;
+
+[&lt;b&gt;Justin Kwon&lt;/b&gt;](https://www.linkedin.com/in/justin-kwon-259594268) | Email: &lt;a href=&#34;mailto:kwon296@purdue.edu&#34;&gt;kwon296@purdue.edu&lt;/a&gt; --&gt;
+&lt;!-- [&lt;b&gt;Raunak Dani&lt;/b&gt;](https://www.linkedin.com/in/raunak-dani) | Email: &lt;a href=&#34;mailto:dani@purdue.edu&#34;&gt;dani@purdue.edu&lt;/a&gt; --&gt;
+&lt;br&gt;
+&lt;!--
+#### Visiting Ph.D. Students {#visitingphd}
+
+[&lt;b&gt;Goodsol Lee&lt;/b&gt;](https://nxc.snu.ac.kr/people/students#h.votdqrq7ux1a) | Email: &lt;a href=&#34;mailto:gslee2@netlab.snu.ac.kr&#34;&gt;gslee2@netlab.snu.ac.kr&lt;/a&gt;
+
+[&lt;b&gt;Seongsik Cho&lt;/b&gt;](https://nxc.snu.ac.kr/people/students#h.bfx8jrpbmhn8) | Email: &lt;a href=&#34;mailto:choss@snu.ac.kr&#34;&gt;choss@snu.ac.kr&lt;/a&gt;
+
+&lt;br&gt;
+--&gt;
+&lt;h4 id=&#34;previousvisitingphd&#34;&gt;Visitors&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.linkedin.com/in/goodsol-lee-25a75b31a&#34;&gt;&lt;b&gt;Goodsol Lee&lt;/b&gt;&lt;/a&gt;, Seoul National University, Dec. 2023 &amp;ndash; May 2024 | Email: &lt;a href=&#34;mailto:gslee2@netlab.snu.ac.kr&#34;&gt;&lt;a href=&#34;mailto:gslee2@netlab.snu.ac.kr&#34;&gt;gslee2@netlab.snu.ac.kr&lt;/a&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://nxc.snu.ac.kr/people/students#h.bfx8jrpbmhn8&#34;&gt;&lt;b&gt;Seongsik Cho&lt;/b&gt;&lt;/a&gt;, Seoul National University, Dec. 2023 &amp;ndash; Dec. 2024 | Email: &lt;a href=&#34;mailto:choss@snu.ac.kr&#34;&gt;&lt;a href=&#34;mailto:choss@snu.ac.kr&#34;&gt;choss@snu.ac.kr&lt;/a&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;br&gt;
+&lt;hr/&gt;
+&lt;!-- ## Opportunities {#opportunities}  
+
+We welcome enquiries from prospective research assistants interested in joining our team. Our research assistants are involved in diverse aspects of scientific research—including data collection, study design, and subject recruitment. Through these experiences, our lab members develop and hone their skills in designing and conducting laboratory experiments (including those on group dynamics) and scientific studies of naturalistic groups and teams in the field, and they receive hands-on training in behavioral observations, measuring vocal parameters (e.g., pitch, formants), assessing salivary biomarkers (e.g, enzymes and hormones such as testosterone, cortisol, alpha-amylase), using eye-tracking technology, conducting scientific literature searches, and basic and advanced data analytic techniques.
+
+&lt;ul style=&#34;font-size:16px;&#34;&gt;
+
+  &lt;li style=&#34;color:#282828;font-style:italic;&#34;&gt;&lt;b&gt;Note to prospective graduate students:&lt;/b&gt; &lt;/li&gt; We are always on the lookout for highly motivated students who want to conduct research in our area. If you fit this description, feel free to send Professor Kim an email that contains at least (i) your CV and (ii) something which demonstrates to me that you have read one of our recent papers. We apologize in advance that Professor Kim cannot respond to every email.
+  &lt;li style=&#34;color:#282828;font-style:italic;&#34;&gt;&lt;b&gt;Note to prospective postdocs:&lt;/b&gt; &lt;/li&gt; We currently have one or two positions available, focused on open RAN architecture, edge platform, and their implementation &amp; experimentation aspects. These positions will be joint with other faculty in Purdue ECE. If you are interested, please send Professor Kim an email with your CV. We apologize in advance that Professor Kim cannot respond to every email.
+&lt;/ul&gt; --&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
